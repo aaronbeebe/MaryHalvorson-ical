@@ -1,100 +1,99 @@
 # generate_calendar.py
 import os
-from datetime import datetime, timezone
+import re
+from datetime import datetime
 from urllib.parse import urljoin
 
 import requests
 from bs4 import BeautifulSoup
-from ics import Calendar
+from ics import Calendar, Event
 
-BASE_PAGE = "https://www.ruhabenjamin.com/events"
-OUTPUT_FILE = "docs/ruha.ics"
+BASE_PAGE = "https://www.maryhalvorson.com/upcoming-dates"
+OUTPUT_FILE = "docs/mary.ics"
 
-def fetch_ics_links(page_url: str):
-    print(f"[info] Fetching events page: {page_url}")
-    resp = requests.get(page_url, timeout=30)
-    resp.raise_for_status()
-    soup = BeautifulSoup(resp.text, "html.parser")
+DATE_RE = re.compile(r"^[A-Z][a-z]{2} \d{1,2}, \d{4}, \d{1,2}:\d{2} [AP]M$")  # e.g., "Oct 23, 2025, 8:30 PM"
 
-    links = set()
+def fetch_event_blocks(url: str):
+    """Yield dicts with title, datetime string, venue, and details URL."""
+    print(f"[info] Fetching: {url}")
+    r = requests.get(url, timeout=30)
+    r.raise_for_status()
+    soup = BeautifulSoup(r.text, "html.parser")
 
-    # Preferred: visible "ICS" link text
-    for a in soup.find_all("a"):
-        text = (a.get_text(strip=True) or "").lower()
-        href = a.get("href")
-        if not href:
+    # Strategy: each event has a title link to /event-details/..., followed by two text lines (date/time, venue)
+    for a in soup.select('a[href*="/event-details/"]'):
+        title = a.get_text(strip=True)
+        if not title:
             continue
-        if text == "ics":
-            links.add(urljoin(page_url, href))
 
-    # Fallback: any link ending with .ics
-    for a in soup.find_all("a", href=True):
-        href = a["href"]
-        if href.lower().endswith(".ics"):
-            links.add(urljoin(page_url, href))
+        # Walk forward through siblings to capture the next two meaningful text lines
+        date_str, venue, details_url = None, None, urljoin(url, a.get("href"))
+        texts_found = []
 
-    print(f"[info] Found {len(links)} ICS links")
-    for u in sorted(links):
-        print(f"  - {u}")
-    return sorted(links)
+        for sib in a.parent.next_siblings:
+            # skip whitespace / empty nodes
+            if getattr(sib, "get_text", None):
+                t = sib.get_text(strip=True)
+            else:
+                t = str(sib).strip()
+            if not t:
+                continue
+            # stop when another "Learn more" or next event title shows up
+            if t.lower() == "learn more":
+                break
+            texts_found.append(t)
+            if len(texts_found) >= 2:
+                break
 
-def merge_ics(ics_urls):
-    master = Calendar()
-    seen = set()
-    now = datetime.now(timezone.utc)
+        # Assign the two lines if they look like date → venue
+        if texts_found:
+            if DATE_RE.match(texts_found[0]):
+                date_str = texts_found[0]
+                venue = texts_found[1] if len(texts_found) > 1 else ""
 
-    for url in ics_urls:
+        if date_str:
+            yield {
+                "title": title,
+                "date_str": date_str,
+                "venue": venue,
+                "url": details_url,
+            }
+
+def parse_naive_local(dt_str: str) -> datetime:
+    # Example: "Oct 23, 2025, 8:30 PM"
+    return datetime.strptime(dt_str, "%b %d, %Y, %I:%M %p")
+
+def build_calendar(blocks):
+    cal = Calendar()
+    added = 0
+    for b in blocks:
         try:
-            print(f"[info] Downloading: {url}")
-            r = requests.get(url, timeout=30)
-            r.raise_for_status()
-
-            subcal = Calendar(r.text)
-            added = 0
-            for ev in subcal.events:
-                # Robust UID for de-dupe
-                uid = getattr(ev, "uid", None) or f"{ev.name}|{ev.begin}|{ev.location}"
-                if uid in seen:
-                    continue
-
-                # Keep only upcoming (comment this block to keep all)
-                try:
-                    ev_end = ev.end or ev.begin
-                    if hasattr(ev_end, "tzinfo") and ev_end.tzinfo is None:
-                        ev_end = ev_end.replace(tzinfo=timezone.utc)
-                    if ev_end < now:
-                        continue
-                except Exception as e:
-                    print(f"[warn] date compare issue for '{ev.name}': {e}")
-
-                master.events.add(ev)
-                seen.add(uid)
-                added += 1
-
-            print(f"[info] Added {added} events from {url}")
-
+            start = parse_naive_local(b["date_str"])
         except Exception as e:
-            print(f"[warn] Skipping {url}: {e}")
+            print(f"[warn] Could not parse date '{b['date_str']}' for {b['title']}: {e}")
+            continue
 
-    print(f"[info] Total merged events: {len(master.events)}")
-    return master
+        e = Event()
+        e.name = b["title"]
+        e.begin = start  # naive local time (floating). Calendar apps will treat it as local to the viewer.
+        e.duration = {"hours": 2}  # default guess; adjust if you prefer
+        e.location = b["venue"]
+        e.url = b["url"]
+        cal.events.add(e)
+        added += 1
+    print(f"[info] Built calendar with {added} events")
+    return cal
 
 def main():
-    ics_urls = fetch_ics_links(BASE_PAGE)
-    if not ics_urls:
-        print("[error] No ICS links found. The page markup may have changed.")
+    blocks = list(fetch_event_blocks(BASE_PAGE))
+    if not blocks:
+        print("[error] No events found; page structure may have changed.")
         return 2
 
-    cal = merge_ics(ics_urls)
-
-    # Ensure output folder exists
-    outdir = os.path.dirname(OUTPUT_FILE) or "."
-    os.makedirs(outdir, exist_ok=True)
-
-    serialized = cal.serialize()
+    cal = build_calendar(blocks)
+    os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write(serialized)
-
+        f.write(cal.serialize())
     print(f"[success] Wrote {len(cal.events)} events to {OUTPUT_FILE}")
     return 0
 
