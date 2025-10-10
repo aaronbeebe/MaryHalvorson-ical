@@ -8,94 +8,98 @@ import requests
 from bs4 import BeautifulSoup
 from ics import Calendar, Event
 
-BASE_PAGE = "https://www.maryhalvorson.com/upcoming-dates"
+BASE_LIST = "https://www.maryhalvorson.com/upcoming-dates"
 OUTPUT_FILE = "docs/mary.ics"
 
-DATE_RE = re.compile(r"^[A-Z][a-z]{2} \d{1,2}, \d{4}, \d{1,2}:\d{2} [AP]M$")  # e.g., "Oct 23, 2025, 8:30 PM"
+# e.g., "Oct 23, 2025, 8:30 PM"
+DATE_FMT = "%b %d, %Y, %I:%M %p"
+DATE_RE = re.compile(r"^[A-Z][a-z]{2} \d{1,2}, \d{4}, \d{1,2}:\d{2} [AP]M$")
 
-def fetch_event_blocks(url: str):
-    """Yield dicts with title, datetime string, venue, and details URL."""
-    print(f"[info] Fetching: {url}")
+def fetch_soup(url: str) -> BeautifulSoup:
     r = requests.get(url, timeout=30)
     r.raise_for_status()
-    soup = BeautifulSoup(r.text, "html.parser")
+    return BeautifulSoup(r.text, "html.parser")
 
-    # Strategy: each event has a title link to /event-details/..., followed by two text lines (date/time, venue)
+def get_event_links() -> list[str]:
+    """Collect unique /event-details/... links from the listing page."""
+    soup = fetch_soup(BASE_LIST)
+    links = []
+    seen = set()
     for a in soup.select('a[href*="/event-details/"]'):
-        title = a.get_text(strip=True)
-        if not title:
-            continue
+        href = urljoin(BASE_LIST, a.get("href", ""))
+        if href and href not in seen:
+            seen.add(href)
+            links.append(href)
+    print(f"[info] Found {len(links)} event detail links")
+    return links
 
-        # Walk forward through siblings to capture the next two meaningful text lines
-        date_str, venue, details_url = None, None, urljoin(url, a.get("href"))
-        texts_found = []
+def parse_event_page(url: str):
+    """Return dict with name, dt_start (datetime), venue, url — or None."""
+    s = fetch_soup(url)
 
-        for sib in a.parent.next_siblings:
-            # skip whitespace / empty nodes
-            if getattr(sib, "get_text", None):
-                t = sib.get_text(strip=True)
-            else:
-                t = str(sib).strip()
-            if not t:
-                continue
-            # stop when another "Learn more" or next event title shows up
-            if t.lower() == "learn more":
-                break
-            texts_found.append(t)
-            if len(texts_found) >= 2:
-                break
+    # Title: the big H1 at the top of the page
+    h1 = s.find(["h1", "h2"])
+    title = (h1.get_text(strip=True) if h1 else "").strip()
+    if not title:
+        return None
 
-        # Assign the two lines if they look like date → venue
-        if texts_found:
-            if DATE_RE.match(texts_found[0]):
-                date_str = texts_found[0]
-                venue = texts_found[1] if len(texts_found) > 1 else ""
+    # The page has a "Time & Location" section with two lines:
+    #   Oct 10, 2025, 7:00 PM
+    #   Revue Stage, 1601 Johnston St, Vancouver, ...
+    # We'll search for a line that matches the date format, then take the next line as venue.
+    all_text = [t.strip() for t in s.stripped_strings]
+    date_line = None
+    venue_line = ""
+    for i, t in enumerate(all_text):
+        if DATE_RE.match(t):
+            date_line = t
+            if i + 1 < len(all_text):
+                venue_line = all_text[i + 1]
+            break
+    if not date_line:
+        print(f"[warn] No date found on {url}")
+        return None
 
-        if date_str:
-            yield {
-                "title": title,
-                "date_str": date_str,
-                "venue": venue,
-                "url": details_url,
-            }
+    try:
+        dt = datetime.strptime(date_line, DATE_FMT)  # naive/floating time
+    except Exception as e:
+        print(f"[warn] Could not parse date '{date_line}' on {url}: {e}")
+        return None
 
-def parse_naive_local(dt_str: str) -> datetime:
-    # Example: "Oct 23, 2025, 8:30 PM"
-    return datetime.strptime(dt_str, "%b %d, %Y, %I:%M %p")
-
-def build_calendar(blocks):
-    cal = Calendar()
-    added = 0
-    for b in blocks:
-        try:
-            start = parse_naive_local(b["date_str"])
-        except Exception as e:
-            print(f"[warn] Could not parse date '{b['date_str']}' for {b['title']}: {e}")
-            continue
-
-        e = Event()
-        e.name = b["title"]
-        e.begin = start  # naive local time (floating). Calendar apps will treat it as local to the viewer.
-        e.duration = {"hours": 2}  # default guess; adjust if you prefer
-        e.location = b["venue"]
-        e.url = b["url"]
-        cal.events.add(e)
-        added += 1
-    print(f"[info] Built calendar with {added} events")
-    return cal
+    return {
+        "title": title,
+        "begin": dt,
+        "venue": venue_line,
+        "url": url,
+    }
 
 def main():
-    blocks = list(fetch_event_blocks(BASE_PAGE))
-    if not blocks:
-        print("[error] No events found; page structure may have changed.")
+    detail_links = get_event_links()
+    if not detail_links:
+        print("[error] No events found on listing page.")
         return 2
 
-    cal = build_calendar(blocks)
+    cal = Calendar()
+    added = 0
+    for link in detail_links:
+        info = parse_event_page(link)
+        if not info:
+            continue
+        e = Event()
+        e.name = info["title"]
+        e.begin = info["begin"]            # naive time; calendar apps treat as local
+        e.duration = {"hours": 2}          # default duration; tweak as needed
+        e.location = info["venue"]
+        e.url = info["url"]
+        cal.events.add(e)
+        added += 1
+
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(cal.serialize())
-    print(f"[success] Wrote {len(cal.events)} events to {OUTPUT_FILE}")
-    return 0
+
+    print(f"[success] Wrote {added} events to {OUTPUT_FILE}")
+    return 0 if added > 0 else 2
 
 if __name__ == "__main__":
     raise SystemExit(main())
