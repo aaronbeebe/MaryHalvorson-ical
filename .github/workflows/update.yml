@@ -1,12 +1,12 @@
-name: Update ICS feed
+name: Update ICS feed (Mary Halvorson)
 
 on:
   schedule:
     - cron: "0 9 * * *"   # daily at 09:00 UTC
-  workflow_dispatch:       # allow manual runs
+  workflow_dispatch:       # manual runs
 
 permissions:
-  contents: write          # needed to push changes
+  contents: write
 
 jobs:
   build:
@@ -33,9 +33,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          if [[ -n "$(git status --porcelain docs/ruha.ics)" ]]; then
-            git add docs/ruha.ics
-            git commit -m "Update ruha.ics"
+          if [[ -n "$(git status --porcelain docs/mary.ics)" ]]; then
+            git add docs/mary.ics
+            git commit -m "Update mary.ics"
             git push
           else
             echo "No changes to commit."
