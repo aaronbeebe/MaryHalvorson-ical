@@ -3,146 +3,146 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:The Pearl\, 2195 California St\, Denver\, CO 80205\, USA
-DTSTART:20251015T190000Z
-SUMMARY:Ches Smith: Clone Row
-UID:004f01c7-e8db-4b77-8b3f-adc41dc9ceab@004f.org
-URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-12
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Unipol Auditorium\, V. Stalingrado\, 37\, 40128 Bologna BO\, Italy
-DTSTART:20251028T211500Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:a3b095cc-9216-44ee-af40-ec5c4ce65b0a@a3b0.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-42
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Klub Zak\, aleja Grunwaldzka 197\, 80-266 Gdańsk\, Poland
-DTSTART:20251023T203000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:feffbb47-c8fa-4d70-801a-b01517031681@feff.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-40
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Nica Jazz Club\, Alter Wall 20\, 20457 Hamburg\, Germany
-DTSTART:20251103T200000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:38ca2273-1615-41dd-afaf-9b50f746df0a@38ca.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-47
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Domicil\, Hansastraße 7-11\, 44137 Dortmund\, Germany
-DTSTART:20251106T200000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:25ab1f5e-369f-40de-bf14-6547c6daeeea@25ab.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-50
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Victoria Nasjonal Jazzscene\, Karl Johans gt. 35\, 0161 Oslo\, Norway
-DTSTART:20251030T200000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:da808940-102e-4c1f-99a0-283ac4d122f4@da80.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-44
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:SF Jazz\, 201 Franklin St\, San Francisco\, CA 94102\, USA
-DTSTART:20251016T190000Z
-SUMMARY:Ches Smith: Clone Row
-UID:8e8c55c3-6291-4c32-9ed1-cf4603375a9f@8e8c.org
-URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-13
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:SF Jazz\, 201 Franklin St\, San Francisco\, CA 94102\, USA
-DTSTART:20251016T203000Z
-SUMMARY:Ches Smith: Clone Row
-UID:c62c09ac-fde1-4bf1-9eb1-f148b3f8defa@c62c.org
-URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-14
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Angel City Jazz Festival\, 2220 Beverly Blvd\, Los Angeles\, CA 90057\, USA
 DTSTART:20251017T213000Z
 SUMMARY:Ches Smith: Clone Row
-UID:171cf4b8-dadf-4036-917a-c49cb34e8afb@171c.org
+UID:aae37fce-3903-4cb5-bfdc-f5f97388e65c@aae3.org
 URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-15
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Stadthaus Ulm\, Stadthaus\, Münsterplatz 50\, 89073 Ulm\, Germany
-DTSTART:20251104T200000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:7158579d-b08a-482d-be38-5dcaaebc052d@7158.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-48
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Angel City Jazz Festival\, 2220 Beverly Blvd\, Los Angeles\, CA 90057\, USA
-DTSTART:20251017T200000Z
-SUMMARY:Mary Halvorson & Tomas Fujiwara
-UID:276e78dd-a521-4511-b3d0-42e8c5fdada2@276e.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-tomas-fujiwara-8
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Berlin Jazz Festival\, Schaperstraße 24\, 10719 Berlin\, Germany
-DTSTART:20251101T200000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:e9ae44b8-f056-4804-8d18-4a55149e836f@e9ae.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-46
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Sala dei Giganti al Liviano\, Piazza Capitaniato\, 5\, 35139 Padova PD\, Italy
-DTSTART:20251024T210000Z
-SUMMARY:Amaryllis DUOS special project
-UID:d1a1afd0-b4ed-4be5-bc0f-124ea020dee2@d1a1.org
-URL:https://www.maryhalvorson.com/event-details/amaryllis-duos-special-project
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Fasching\, Kungsgatan 63\, 111 22 Stockholm\, Sweden
 DTSTART:20251029T200000Z
 SUMMARY:Mary Halvorson: Amaryllis
-UID:d953f1ca-7313-4bd0-a8f7-fa8096647643@d953.org
+UID:3fa20ffb-dbe2-4ab9-a7fe-d9135f7980e9@3fa2.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-43
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Klub Zak\, aleja Grunwaldzka 197\, 80-266 Gdańsk\, Poland
+DTSTART:20251023T203000Z
+SUMMARY:Mary Halvorson: Amaryllis
+UID:aa021a38-0543-4a67-b4b8-0f8ab7096e0b@aa02.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-40
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:SPOT/ De Oosterpoort\, Trompsingel 27\, 9724 DA Groningen\, Netherlands
+DTSTART:20251108T190000Z
+SUMMARY:Mary Halvorson: Amaryllis
+UID:3793d2ac-47f1-4e30-b87c-2427e795c6f7@3793.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-52
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:SF Jazz\, 201 Franklin St\, San Francisco\, CA 94102\, USA
+DTSTART:20251016T190000Z
+SUMMARY:Ches Smith: Clone Row
+UID:06bc5aea-e3b3-4f48-8626-5a0ee57d4fef@06bc.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-13
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Nica Jazz Club\, Alter Wall 20\, 20457 Hamburg\, Germany
+DTSTART:20251103T200000Z
+SUMMARY:Mary Halvorson: Amaryllis
+UID:6f85671a-ff10-420d-9eff-44199f1b9229@6f85.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-47
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Bimhuis\, Piet Heinkade 3\, 1019 GM Amsterdam\, Netherlands
 DTSTART:20251107T203000Z
 SUMMARY:Mary Halvorson: Amaryllis
-UID:d2553323-d1f5-40bf-8b76-4b6f02b4ea26@d255.org
+UID:006bbd90-e8ce-4ae1-89b5-88abc0a1caa3@006b.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-51
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Berlin Jazz Festival\, Schaperstraße 24\, 10719 Berlin\, Germany
+DTSTART:20251101T200000Z
+SUMMARY:Mary Halvorson: Amaryllis
+UID:a54d8786-1f14-4e07-a4d3-e1dbd8e0dbd8@a54d.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-46
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Unipol Auditorium\, V. Stalingrado\, 37\, 40128 Bologna BO\, Italy
+DTSTART:20251028T211500Z
+SUMMARY:Mary Halvorson: Amaryllis
+UID:c97bfe87-7277-4184-b9b0-0d8c831ed6e9@c97b.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-42
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:SF Jazz\, 201 Franklin St\, San Francisco\, CA 94102\, USA
+DTSTART:20251016T203000Z
+SUMMARY:Ches Smith: Clone Row
+UID:4fa13ff6-7c7b-4ee2-a821-79f6bf61c58a@4fa1.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-14
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Stadthaus Ulm\, Stadthaus\, Münsterplatz 50\, 89073 Ulm\, Germany
+DTSTART:20251104T200000Z
+SUMMARY:Mary Halvorson: Amaryllis
+UID:4ba42e98-8e7c-4562-9cf6-ce90ddf3c904@4ba4.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-48
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Tampere Jazz Happening\, Ratapihankatu 43\, 33100 Tampere\, Finland
 DTSTART:20251031T233000Z
 SUMMARY:Mary Halvorson: Amaryllis
-UID:a08a757b-4a9f-4c52-a553-23cf954694df@a08a.org
+UID:e77478de-f5f2-463c-97f3-581936a46b3c@e774.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-45
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Sala dei Giganti al Liviano\, Piazza Capitaniato\, 5\, 35139 Padova PD\, Italy
-DTSTART:20251025T210000Z
+LOCATION:Angel City Jazz Festival\, 2220 Beverly Blvd\, Los Angeles\, CA 90057\, USA
+DTSTART:20251017T200000Z
+SUMMARY:Mary Halvorson & Tomas Fujiwara
+UID:1ee458e8-f34f-489c-a407-203b6d44e902@1ee4.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-tomas-fujiwara-8
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Domicil\, Hansastraße 7-11\, 44137 Dortmund\, Germany
+DTSTART:20251106T200000Z
 SUMMARY:Mary Halvorson: Amaryllis
-UID:24728fb6-1eed-4169-98fa-2b21d91965bb@2472.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-41
+UID:4eb303e6-73b9-4dc1-aed8-9ce0a1fec216@4eb3.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-50
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Stadtgarten\, Venloer Str. 40\, 50672 Köln\, Germany
 DTSTART:20251105T200000Z
 SUMMARY:Mary Halvorson: Amaryllis
-UID:5853ff4c-b3ed-4502-b1f1-8c3537f15589@5853.org
+UID:d017385e-6907-417c-9e6b-5bdc66249911@d017.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-49
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Victoria Nasjonal Jazzscene\, Karl Johans gt. 35\, 0161 Oslo\, Norway
+DTSTART:20251030T200000Z
+SUMMARY:Mary Halvorson: Amaryllis
+UID:5ad92c37-e198-4d3e-a964-2c1f3b584f21@5ad9.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-44
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Sala dei Giganti al Liviano\, Piazza Capitaniato\, 5\, 35139 Padova PD\, Italy
+DTSTART:20251025T210000Z
+SUMMARY:Mary Halvorson: Amaryllis
+UID:d7b7af94-4ab9-4e94-a3e8-707596d8e7c1@d7b7.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-41
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Sala dei Giganti al Liviano\, Piazza Capitaniato\, 5\, 35139 Padova PD\, Italy
+DTSTART:20251024T210000Z
+SUMMARY:Amaryllis DUOS special project
+UID:13db62a2-26d4-4671-8dab-17131b14723d@13db.org
+URL:https://www.maryhalvorson.com/event-details/amaryllis-duos-special-project
 END:VEVENT
 END:VCALENDAR
