@@ -3,10 +3,66 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Nica Jazz Club\, Alter Wall 20\, 20457 Hamburg\, Germany
+DTSTART:20251103T200000Z
+SUMMARY:Mary Halvorson: Amaryllis
+UID:dfd01fcd-1a23-477c-b82c-66dd6f30fca0@dfd0.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-47
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Stadtgarten\, Venloer Str. 40\, 50672 Köln\, Germany
+DTSTART:20251105T200000Z
+SUMMARY:Mary Halvorson: Amaryllis
+UID:2e822602-206d-40ff-8f6c-b26268e7951d@2e82.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-49
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Fasching\, Kungsgatan 63\, 111 22 Stockholm\, Sweden
+DTSTART:20251029T200000Z
+SUMMARY:Mary Halvorson: Amaryllis
+UID:442e5898-e1f5-4657-92b2-e8b98bff3c0c@442e.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-43
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Tampere Jazz Happening\, Ratapihankatu 43\, 33100 Tampere\, Finland
+DTSTART:20251031T233000Z
+SUMMARY:Mary Halvorson: Amaryllis
+UID:05bf5376-4550-4a4b-9175-64bed22f47d8@05bf.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-45
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Domicil\, Hansastraße 7-11\, 44137 Dortmund\, Germany
+DTSTART:20251106T200000Z
+SUMMARY:Mary Halvorson: Amaryllis
+UID:46bc98c2-c854-4e27-9a8a-8ac8b7976dfd@46bc.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-50
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Berlin Jazz Festival\, Schaperstraße 24\, 10719 Berlin\, Germany
+DTSTART:20251101T200000Z
+SUMMARY:Mary Halvorson: Amaryllis
+UID:4a4e2281-89f9-447c-b359-6b4925a021b8@4a4e.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-46
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Bimhuis\, Piet Heinkade 3\, 1019 GM Amsterdam\, Netherlands
+DTSTART:20251107T203000Z
+SUMMARY:Mary Halvorson: Amaryllis
+UID:a7080402-4b2f-4151-82d6-e8f7aecd5b8a@a708.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-51
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Unipol Auditorium\, V. Stalingrado\, 37\, 40128 Bologna BO\, Italy
 DTSTART:20251028T211500Z
 SUMMARY:Mary Halvorson: Amaryllis
-UID:6dcc72a7-38ed-4d1f-ac32-c3d029f0ba15@6dcc.org
+UID:653c7462-bf05-4640-bcf6-3b7c8a8ee358@653c.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-42
 END:VEVENT
 BEGIN:VEVENT
@@ -14,7 +70,7 @@ DURATION:PT2H
 LOCATION:Sala dei Giganti al Liviano\, Piazza Capitaniato\, 5\, 35139 Padova PD\, Italy
 DTSTART:20251025T210000Z
 SUMMARY:Mary Halvorson: Amaryllis
-UID:49515cc4-150c-4b38-8381-d90456910ed9@4951.org
+UID:77147895-400c-45eb-a121-c6ef46742410@7714.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-41
 END:VEVENT
 BEGIN:VEVENT
@@ -22,7 +78,7 @@ DURATION:PT2H
 LOCATION:SPOT/ De Oosterpoort\, Trompsingel 27\, 9724 DA Groningen\, Netherlands
 DTSTART:20251108T190000Z
 SUMMARY:Mary Halvorson: Amaryllis
-UID:534e1e9f-2d43-465d-b9b0-dc2f0e6cd4f4@534e.org
+UID:7826c271-2faa-401d-a749-fc85facd223c@7826.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-52
 END:VEVENT
 BEGIN:VEVENT
@@ -30,87 +86,7 @@ DURATION:PT2H
 LOCATION:Victoria Nasjonal Jazzscene\, Karl Johans gt. 35\, 0161 Oslo\, Norway
 DTSTART:20251030T200000Z
 SUMMARY:Mary Halvorson: Amaryllis
-UID:582c4680-0955-41eb-b443-a8c092daa3e2@582c.org
+UID:6c1d1015-fef1-440c-a1de-0ede2c04f0d5@6c1d.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-44
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Sala dei Giganti al Liviano\, Piazza Capitaniato\, 5\, 35139 Padova PD\, Italy
-DTSTART:20251024T210000Z
-SUMMARY:Amaryllis DUOS special project
-UID:d18b6584-dded-4601-84d3-6f7cb5b71ad6@d18b.org
-URL:https://www.maryhalvorson.com/event-details/amaryllis-duos-special-project
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Klub Zak\, aleja Grunwaldzka 197\, 80-266 Gdańsk\, Poland
-DTSTART:20251023T203000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:e5fbaf61-27b8-48ff-b977-d0ebf1834bba@e5fb.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-40
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Tampere Jazz Happening\, Ratapihankatu 43\, 33100 Tampere\, Finland
-DTSTART:20251031T233000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:12a82d0a-e08a-49fb-92fb-8e4bb62cb5d4@12a8.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-45
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Fasching\, Kungsgatan 63\, 111 22 Stockholm\, Sweden
-DTSTART:20251029T200000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:5c6a9f68-1713-4347-ba75-13a0bcae066c@5c6a.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-43
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Berlin Jazz Festival\, Schaperstraße 24\, 10719 Berlin\, Germany
-DTSTART:20251101T200000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:75b0f9d2-f8f5-45ad-a019-cf2c364e69ed@75b0.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-46
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Stadthaus Ulm\, Stadthaus\, Münsterplatz 50\, 89073 Ulm\, Germany
-DTSTART:20251104T200000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:ae059da1-57dc-4d8b-ab9e-242fd1702b93@ae05.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-48
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Nica Jazz Club\, Alter Wall 20\, 20457 Hamburg\, Germany
-DTSTART:20251103T200000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:ae7bbf29-48d0-43a1-b5ef-207bab432f1f@ae7b.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-47
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Domicil\, Hansastraße 7-11\, 44137 Dortmund\, Germany
-DTSTART:20251106T200000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:2822d699-b07c-4ac8-b4f3-5527fa49dd91@2822.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-50
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Bimhuis\, Piet Heinkade 3\, 1019 GM Amsterdam\, Netherlands
-DTSTART:20251107T203000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:38bdf974-4186-4014-851c-fd087f875bdc@38bd.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-51
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Stadtgarten\, Venloer Str. 40\, 50672 Köln\, Germany
-DTSTART:20251105T200000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:9bf76df1-2524-4f1f-aafd-eb4a0a32bede@9bf7.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-49
 END:VEVENT
 END:VCALENDAR
