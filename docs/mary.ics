@@ -3,66 +3,58 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:SPOT/ De Oosterpoort\, Trompsingel 27\, 9724 DA Groningen\, Netherlands
-DTSTART:20251108T190000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:6ec62f10-03ac-4a5b-ac80-9bee081ad1c8@6ec6.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-52
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
-DTSTART:20251122T200000Z
+DTSTART:20251121T200000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:273df319-07f5-49a4-8977-2b32fae9ee8d@273d.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-7
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
-DTSTART:20251121T220000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:3b184ca3-e5bd-4f5a-9eaf-3375bf6d5f10@3b18.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-6
+UID:996d8fae-bf5c-4300-863d-72f631fde786@996d.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-5
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217\, USA
 DTSTART:20251112T200000Z
 SUMMARY:The Music of Anthony Braxton: Concert and Reflections\, with Mary Halvorson and George Lewis
-UID:4864d38b-fb2a-499e-a540-94ed9c999bb0@4864.org
+UID:661d395b-c902-4cf1-9614-445b14ad7914@661d.org
 URL:https://www.maryhalvorson.com/event-details/the-music-of-anthony-braxton-concert-and-reflections-with-mary-halvorson-and-george-lewis
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Domicil\, Hansastraße 7-11\, 44137 Dortmund\, Germany
-DTSTART:20251106T200000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:560279b7-7dfa-47cb-b7b1-77567a9738c5@5602.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-50
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Bimhuis\, Piet Heinkade 3\, 1019 GM Amsterdam\, Netherlands
-DTSTART:20251107T203000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:4d683314-bfae-46a5-89f8-25b6ba216a14@4d68.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-51
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
-DTSTART:20251121T200000Z
+DTSTART:20251122T200000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:edd2145c-5e84-4dc8-80e7-27ec1971d015@edd2.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-5
+UID:68b4b0cb-5a90-4bd9-8c55-bcb5d9bea987@68b4.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-7
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:SPOT/ De Oosterpoort\, Trompsingel 27\, 9724 DA Groningen\, Netherlands
+DTSTART:20251108T190000Z
+SUMMARY:Mary Halvorson: Amaryllis
+UID:a2f9ee56-9124-45dc-ad73-10373b37ec7f@a2f9.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-52
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
 DTSTART:20251122T220000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:e6ab787b-9500-49d4-a663-db71603aca08@e6ab.org
+UID:07874b19-4652-48e1-8aee-f459c507db7e@0787.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-8
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Bimhuis\, Piet Heinkade 3\, 1019 GM Amsterdam\, Netherlands
+DTSTART:20251107T203000Z
+SUMMARY:Mary Halvorson: Amaryllis
+UID:0270ec82-6cb0-40ab-9e59-e2c6dbf58984@0270.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-51
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
+DTSTART:20251121T220000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:0d212b5e-efa1-4b10-8d6d-78187e175d0f@0d21.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-6
 END:VEVENT
 END:VCALENDAR
