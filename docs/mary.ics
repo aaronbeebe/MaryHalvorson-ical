@@ -4,41 +4,41 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
-DTSTART:20251121T220000Z
+DTSTART:20251121T200000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:849b2968-d376-40ed-a17c-52fb190d0b1e@849b.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-6
+UID:36291e8c-8acf-4c25-bd78-ee01be6e5e1d@3629.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-5
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
-DTSTART:20251122T200000Z
+DTSTART:20251121T220000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:8eb2f710-2b97-415a-9d13-fcaabd608a3b@8eb2.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-7
+UID:017bc3c7-991a-4e31-bddf-75ed2d6cbd5a@017b.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-6
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217\, USA
 DTSTART:20251112T200000Z
 SUMMARY:The Music of Anthony Braxton: Concert and Reflections\, with Mary Halvorson and George Lewis
-UID:3c46e872-cec8-4447-9e91-8cf57cb135ac@3c46.org
+UID:61855120-af10-4093-8ad3-6258d658a5ec@6185.org
 URL:https://www.maryhalvorson.com/event-details/the-music-of-anthony-braxton-concert-and-reflections-with-mary-halvorson-and-george-lewis
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
-DTSTART:20251121T200000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:d065eab1-9cf4-42d8-96fe-a8f57c4ef0af@d065.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-5
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
 DTSTART:20251122T220000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:4cae1886-0c14-42ce-9a23-74cb24c951d8@4cae.org
+UID:551a177f-5201-4094-a777-13f184dd5b87@551a.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-8
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
+DTSTART:20251122T200000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:eefc8eae-16dd-4576-8851-bea06d9a1d46@eefc.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-7
 END:VEVENT
 END:VCALENDAR
