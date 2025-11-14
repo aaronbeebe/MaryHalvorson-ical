@@ -3,42 +3,90 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
-DTSTART:20251121T220000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:3e68c71b-d3d2-4151-a712-ffe9c44cd3cd@3e68.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-6
+LOCATION:Jazzclub Unterfahrt\, Einsteinstraße 42\, 81675 München\, Germany
+DTSTART:20251127T203000Z
+SUMMARY:Ches Smith: Clone Row
+UID:a5b711de-9593-427a-89a6-5e619e43aeae@a5b7.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-17
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217\, USA
+DTSTART:20251207T200000Z
+SUMMARY:Sylvie Courvoisier with Mary Halvorson & Wadada Leo Smith
+UID:8bb6dc71-7218-46cf-8cb9-421c8923c9d6@8bb6.org
+URL:https://www.maryhalvorson.com/event-details/sylvie-courvoisier-with-mary-halvorson-wadada-leo-smith
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
 DTSTART:20251122T200000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:cf7aa947-9988-445c-9409-59192918910a@cf7a.org
+UID:c48a3607-7b4f-4544-a5c5-f8fdef9ba359@c48a.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-7
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Jazzclub Regensburg\, Bertoldstraße 9\, 93047 Regensburg\, Germany
+DTSTART:20251128T200000Z
+SUMMARY:Ches Smith: Clone Row
+UID:d0408fa2-2258-4904-aa73-6bca467ab52a@d040.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-18
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:NOSPR Chamber Hall\, plac Wojciecha Kilara 1\, 40-202 Katowice\, Poland
+DTSTART:20251202T193000Z
+SUMMARY:Ches Smith: Clone Row
+UID:9cc12c5d-c185-41be-98ac-f3ec46931741@9cc1.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-20
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Vortex Jazz Club\, 11 Gillett Square\, London N16 8AZ\, UK
+DTSTART:20251203T213000Z
+SUMMARY:Ches Smith: Clone Row
+UID:95c03691-6d94-4b82-b759-ecfb327b29ea@95c0.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-22
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Vortex Jazz Club\, 11 Gillett Square\, London N16 8AZ\, UK
+DTSTART:20251203T193000Z
+SUMMARY:Ches Smith: Clone Row
+UID:609d2dc3-c236-4c3a-bf95-43a97564a7b0@609d.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-21
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Tube's\, Grieskai 74a\, 8020 Graz\, Austria
+DTSTART:20251126T200000Z
+SUMMARY:Ches Smith: Clone Row
+UID:1a13092f-39ab-4cd0-8677-e09703daf0cc@1a13.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-16
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
 DTSTART:20251121T200000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:56ee2d7a-9d91-456e-87ce-ca933898b06c@56ee.org
+UID:b88bc092-46e3-44bf-99d1-5c423c466c86@b88b.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-5
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217\, USA
-DTSTART:20251112T200000Z
-SUMMARY:The Music of Anthony Braxton: Concert and Reflections\, with Mary Halvorson and George Lewis
-UID:1aaa2e0f-3ad6-4f1a-8b44-743601e369f6@1aaa.org
-URL:https://www.maryhalvorson.com/event-details/the-music-of-anthony-braxton-concert-and-reflections-with-mary-halvorson-and-george-lewis
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
 DTSTART:20251122T220000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:4fd41203-741f-41ac-8e6f-de65bd2e7616@4fd4.org
+UID:eea1b466-4fc0-4d8d-98c9-1a491226004e@eea1.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-8
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Jazz Club Ferrara\, Rampari di Belfiore\, 167\, 44121 Ferrara FE\, Italy
+DTSTART:20251129T213000Z
+SUMMARY:Ches Smith: Clone Row
+UID:50435d38-65ad-4334-8ce6-77c858c3bae3@5043.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-19
 END:VEVENT
 END:VCALENDAR
