@@ -3,82 +3,66 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217\, USA
-DTSTART:20251207T200000Z
-SUMMARY:Sylvie Courvoisier with Mary Halvorson & Wadada Leo Smith
-UID:bc94e0d4-d2e5-47e5-b956-e03b4640d04d@bc94.org
-URL:https://www.maryhalvorson.com/event-details/sylvie-courvoisier-with-mary-halvorson-wadada-leo-smith
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
-DTSTART:20251122T200000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:e0a98f5a-3a21-4505-8862-4ddd3e69a66a@e0a9.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-7
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Vortex Jazz Club\, 11 Gillett Square\, London N16 8AZ\, UK
-DTSTART:20251203T193000Z
-SUMMARY:Ches Smith: Clone Row
-UID:2627d66d-10d1-4558-ae69-c8f57b6ee4cc@2627.org
-URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-21
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Jazzclub Regensburg\, Bertoldstraße 9\, 93047 Regensburg\, Germany
 DTSTART:20251128T200000Z
 SUMMARY:Ches Smith: Clone Row
-UID:cc38b538-67ba-4eb2-b68f-424a7dc04d4b@cc38.org
+UID:925da134-dee3-4102-9967-613e0a2691a8@925d.org
 URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-18
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:NOSPR Chamber Hall\, plac Wojciecha Kilara 1\, 40-202 Katowice\, Poland
-DTSTART:20251202T193000Z
-SUMMARY:Ches Smith: Clone Row
-UID:ddc188e4-1a2d-42fe-8fdd-49beb82c8d6a@ddc1.org
-URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-20
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Jazz Club Ferrara\, Rampari di Belfiore\, 167\, 44121 Ferrara FE\, Italy
 DTSTART:20251129T213000Z
 SUMMARY:Ches Smith: Clone Row
-UID:2d3366ef-32fd-4779-a7ff-dc328c321f0f@2d33.org
+UID:d6e9523d-3c4b-4d69-982c-ba5cfcb2693a@d6e9.org
 URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-19
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Jazzclub Unterfahrt\, Einsteinstraße 42\, 81675 München\, Germany
-DTSTART:20251127T203000Z
+LOCATION:NOSPR Chamber Hall\, plac Wojciecha Kilara 1\, 40-202 Katowice\, Poland
+DTSTART:20251202T193000Z
 SUMMARY:Ches Smith: Clone Row
-UID:0779545f-06ae-42f1-9da0-559343d267f7@0779.org
-URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-17
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
-DTSTART:20251122T220000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:13bf5d26-7256-4518-867e-50e0eeac4527@13bf.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-8
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Tube's\, Grieskai 74a\, 8020 Graz\, Austria
-DTSTART:20251126T200000Z
-SUMMARY:Ches Smith: Clone Row
-UID:17786849-c89b-4659-a252-bebae6fbb2bd@1778.org
-URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-16
+UID:c1e1608d-4f79-45e2-8a84-ab9f69fc7048@c1e1.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-20
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Vortex Jazz Club\, 11 Gillett Square\, London N16 8AZ\, UK
 DTSTART:20251203T213000Z
 SUMMARY:Ches Smith: Clone Row
-UID:6973254f-ee80-4282-b3fe-10d8a4ad1e48@6973.org
+UID:ecf8f78c-e702-4d45-9831-76f69a505531@ecf8.org
 URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-22
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217\, USA
+DTSTART:20251207T200000Z
+SUMMARY:Sylvie Courvoisier with Mary Halvorson & Wadada Leo Smith
+UID:d33205fe-af44-4ba8-b543-f8838c926d22@d332.org
+URL:https://www.maryhalvorson.com/event-details/sylvie-courvoisier-with-mary-halvorson-wadada-leo-smith
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Jazzclub Unterfahrt\, Einsteinstraße 42\, 81675 München\, Germany
+DTSTART:20251127T203000Z
+SUMMARY:Ches Smith: Clone Row
+UID:9e20bea0-b733-43a9-b94d-490d4abe2741@9e20.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-17
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Vortex Jazz Club\, 11 Gillett Square\, London N16 8AZ\, UK
+DTSTART:20251203T193000Z
+SUMMARY:Ches Smith: Clone Row
+UID:6b6c6d15-e6ad-4971-981e-d9d89b513921@6b6c.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-21
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Tube's\, Grieskai 74a\, 8020 Graz\, Austria
+DTSTART:20251126T200000Z
+SUMMARY:Ches Smith: Clone Row
+UID:2d35fcd3-35ff-448d-b83d-512a776dd69e@2d35.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-16
 END:VEVENT
 END:VCALENDAR
