@@ -3,58 +3,58 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Akagi Shrine\, 1-10 Akagi Motomachi\, Shinjuku City\, Tokyo 162-0817\, Japan
-DTSTART:20251214T170000Z
-SUMMARY:Tomeka Reid Quartet
-UID:1d8accce-5e08-40c3-9d88-077eee1d40c6@1d8a.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-48
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Vortex Jazz Club\, 11 Gillett Square\, London N16 8AZ\, UK
-DTSTART:20251203T193000Z
-SUMMARY:Ches Smith: Clone Row
-UID:b37775da-8c94-42eb-a4f4-8b690a929424@b377.org
-URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-21
+LOCATION:100Ban Hall\, 100 Edomachi\, Chuo Ward\, Kobe\, Hyogo 650-0033\, Japan
+DTSTART:20251217T193000Z
+SUMMARY:Tomeka Reid Quartet + Tomeka Reid/Mary Halvorson/Tanaka Noritaka Trio
+UID:769466e2-d3bc-40f6-8195-c0386d4d2a7b@7694.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-tomeka-reid-mary-halvorson-tanaka-noritaka-trio
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217\, USA
 DTSTART:20251207T200000Z
 SUMMARY:Sylvie Courvoisier with Mary Halvorson & Wadada Leo Smith
-UID:920a10fa-c286-4a59-9945-bb496ece8b76@920a.org
+UID:99cbaf6b-bd65-4832-adb6-1a6914a016b2@99cb.org
 URL:https://www.maryhalvorson.com/event-details/sylvie-courvoisier-with-mary-halvorson-wadada-leo-smith
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Vortex Jazz Club\, 11 Gillett Square\, London N16 8AZ\, UK
-DTSTART:20251203T213000Z
-SUMMARY:Ches Smith: Clone Row
-UID:f635f1fd-c665-4c17-a756-4b367428a27a@f635.org
-URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-22
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:100Ban Hall\, 100 Edomachi\, Chuo Ward\, Kobe\, Hyogo 650-0033\, Japan
-DTSTART:20251217T193000Z
-SUMMARY:Tomeka Reid Quartet + Tomeka Reid/Mary Halvorson/Tanaka Noritaka Trio
-UID:aa4e30b5-137b-4eb5-95f2-0556f4582d76@aa4e.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-tomeka-reid-mary-halvorson-tanaka-noritaka-trio
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Rooms Fukuoka\, Japan\, 〒810-0041 Fukuoka\, Chuo Ward\, Daimyō\, 2-chōme−1−５０ 大名Ｏ、Ｎ、Ｏビル 3階
 DTSTART:20251229T183000Z
 SUMMARY:Tomeka Reid Quartet
-UID:74bb2e71-575f-41ba-8c08-4ef20d5b86e6@74bb.org
+UID:762783a0-1055-47f8-a48b-cd0e8a862b19@7627.org
 URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-51
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Akagi Shrine\, 1-10 Akagi Motomachi\, Shinjuku City\, Tokyo 162-0817\, Japan
+DTSTART:20251214T170000Z
+SUMMARY:Tomeka Reid Quartet
+UID:df22955d-b6a2-45ad-b588-047ceccb924f@df22.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-48
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Inryoji Temple\, Japan\, 〒700-0836 Okayama\, Kita Ward\, Chūōchō\, 10−２８ 蔭涼寺
+DTSTART:20251219T193000Z
+SUMMARY:Tomeka Reid Quartet
+UID:c6ecd477-edd4-4640-a641-9f9d472c92c3@c6ec.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-49
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Orinasu Yame\, 602 Motomachi\, Yame\, Fukuoka 834-0031\, Japan
+DTSTART:20251223T193000Z
+SUMMARY:Tomeka Reid Quartet
+UID:001d7ed5-9dcf-497e-b55c-ca6adacbb3b8@001d.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-50
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Tokuzo\, Japan\, 〒464-0850 Aichi\, Nagoya\, Chikusa Ward\, Imaike\, 1-chōme−6−８ ブルースタービル 2F
 DTSTART:20251212T193000Z
 SUMMARY:Tomeka Reid Quartet
-UID:0c9c5ea5-f535-4f37-bd5b-df8da0d9e542@0c9c.org
+UID:8b9e3389-7498-4696-9316-e34f315c2e30@8b9e.org
 URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-47
 END:VEVENT
 BEGIN:VEVENT
@@ -62,23 +62,7 @@ DURATION:PT2H
 LOCATION:100Ban Hall\, 100 Edomachi\, Chuo Ward\, Kobe\, Hyogo 650-0033\, Japan
 DTSTART:20251216T193000Z
 SUMMARY:Tomeka Reid Quartet + Mary Halvorson & Tomas Fujiwara Duo
-UID:d01036b5-9da1-4018-9256-bae85e682963@d010.org
+UID:59a23c1b-6c48-4618-9469-a6c182067d2b@59a2.org
 URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-mary-halvorson-tomas-fujiwara-duo
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Orinasu Yame\, 602 Motomachi\, Yame\, Fukuoka 834-0031\, Japan
-DTSTART:20251223T193000Z
-SUMMARY:Tomeka Reid Quartet
-UID:c3e49931-113f-4382-9ae2-9c53abbeb52b@c3e4.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-50
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Inryoji Temple\, Japan\, 〒700-0836 Okayama\, Kita Ward\, Chūōchō\, 10−２８ 蔭涼寺
-DTSTART:20251219T193000Z
-SUMMARY:Tomeka Reid Quartet
-UID:ad0bbe86-03a8-4fbe-a063-e7d6f3b44c24@ad0b.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-49
 END:VEVENT
 END:VCALENDAR
