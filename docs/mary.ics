@@ -4,9 +4,41 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:100Ban Hall\, 100 Edomachi\, Chuo Ward\, Kobe\, Hyogo 650-0033\, Japan
+DTSTART:20251217T193000Z
+SUMMARY:Tomeka Reid Quartet + Tomeka Reid/Jason Roebke/Tanaka Noritaka Trio
+UID:944b89b2-24c7-4abd-bc81-66019f44b45f@944b.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-tomeka-reid-jason-roebke-tanaka-noritaka-trio
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Akagi Shrine\, 1-10 Akagi Motomachi\, Shinjuku City\, Tokyo 162-0817\, Japan
+DTSTART:20251214T170000Z
+SUMMARY:Tomeka Reid Quartet
+UID:06698614-ae3f-4594-949b-c5c5c0244ffc@0669.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-48
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Inryoji Temple\, Japan\, 〒700-0836 Okayama\, Kita Ward\, Chūōchō\, 10−２８ 蔭涼寺
+DTSTART:20251219T193000Z
+SUMMARY:Tomeka Reid Quartet
+UID:e2a3f0e5-c1ed-4e19-8780-5e266db4dec6@e2a3.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-49
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Rooms Fukuoka\, Japan\, 〒810-0041 Fukuoka\, Chuo Ward\, Daimyō\, 2-chōme−1−５０ 大名Ｏ、Ｎ、Ｏビル 3階
+DTSTART:20251229T183000Z
+SUMMARY:Tomeka Reid Quartet
+UID:239a2321-1abe-48b9-967f-d3031d10cbdf@239a.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-51
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:100Ban Hall\, 100 Edomachi\, Chuo Ward\, Kobe\, Hyogo 650-0033\, Japan
 DTSTART:20251216T193000Z
 SUMMARY:Tomeka Reid Quartet + Mary Halvorson & Tomas Fujiwara Duo
-UID:cbb0dce0-6746-413e-9ac1-bebf7af112e4@cbb0.org
+UID:6ddb1e79-f602-4149-84ad-cd543b3aac47@6ddb.org
 URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-mary-halvorson-tomas-fujiwara-duo
 END:VEVENT
 BEGIN:VEVENT
@@ -14,47 +46,7 @@ DURATION:PT2H
 LOCATION:Orinasu Yame\, 602 Motomachi\, Yame\, Fukuoka 834-0031\, Japan
 DTSTART:20251223T193000Z
 SUMMARY:Tomeka Reid Quartet
-UID:adc51cf9-ecb5-4fa5-a82c-d1b1928cb2ae@adc5.org
+UID:7f872391-6422-4b04-a9ed-255baed4c0a2@7f87.org
 URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-50
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Akagi Shrine\, 1-10 Akagi Motomachi\, Shinjuku City\, Tokyo 162-0817\, Japan
-DTSTART:20251214T170000Z
-SUMMARY:Tomeka Reid Quartet
-UID:49d39fd0-ad34-482b-b1b8-fc0bf53dc185@49d3.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-48
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:100Ban Hall\, 100 Edomachi\, Chuo Ward\, Kobe\, Hyogo 650-0033\, Japan
-DTSTART:20251217T193000Z
-SUMMARY:Tomeka Reid Quartet + Tomeka Reid/Jason Roebke/Tanaka Noritaka Trio
-UID:844810c8-d4bb-4a55-9e12-45e3e4f56751@8448.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-tomeka-reid-jason-roebke-tanaka-noritaka-trio
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Tokuzo\, Japan\, 〒464-0850 Aichi\, Nagoya\, Chikusa Ward\, Imaike\, 1-chōme−6−８ ブルースタービル 2F
-DTSTART:20251212T193000Z
-SUMMARY:Tomeka Reid Quartet
-UID:f3ddbe55-4718-44cc-9cc2-f60496c5a34d@f3dd.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-47
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Rooms Fukuoka\, Japan\, 〒810-0041 Fukuoka\, Chuo Ward\, Daimyō\, 2-chōme−1−５０ 大名Ｏ、Ｎ、Ｏビル 3階
-DTSTART:20251229T183000Z
-SUMMARY:Tomeka Reid Quartet
-UID:902b8217-9e5e-4ed4-b6e6-1b6887a83c86@902b.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-51
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Inryoji Temple\, Japan\, 〒700-0836 Okayama\, Kita Ward\, Chūōchō\, 10−２８ 蔭涼寺
-DTSTART:20251219T193000Z
-SUMMARY:Tomeka Reid Quartet
-UID:bc2d3da1-a274-421a-8f31-4b0dff7546b2@bc2d.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-49
 END:VEVENT
 END:VCALENDAR
