@@ -6,23 +6,23 @@ DURATION:PT2H
 LOCATION:Orinasu Yame\, 602 Motomachi\, Yame\, Fukuoka 834-0031\, Japan
 DTSTART:20251223T193000Z
 SUMMARY:Tomeka Reid Quartet
-UID:2e1af1d4-0fe9-40f7-b3d9-95baa56e7503@2e1a.org
+UID:53b991df-83dc-400e-9f95-a3b194ff934a@53b9.org
 URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-50
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Inryoji Temple\, Japan\, 〒700-0836 Okayama\, Kita Ward\, Chūōchō\, 10−２８ 蔭涼寺
-DTSTART:20251219T193000Z
-SUMMARY:Tomeka Reid Quartet
-UID:525b64db-2736-492b-8a7f-f028e8fbaf16@525b.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-49
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Rooms Fukuoka\, Japan\, 〒810-0041 Fukuoka\, Chuo Ward\, Daimyō\, 2-chōme−1−５０ 大名Ｏ、Ｎ、Ｏビル 3階
 DTSTART:20251229T183000Z
 SUMMARY:Tomeka Reid Quartet
-UID:580e6da9-1de2-4a07-8e6d-9e1da575eb43@580e.org
+UID:91c7c2c7-4db2-4549-b327-1e55e44bbc45@91c7.org
 URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-51
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Inryoji Temple\, Japan\, 〒700-0836 Okayama\, Kita Ward\, Chūōchō\, 10−２８ 蔭涼寺
+DTSTART:20251219T193000Z
+SUMMARY:Tomeka Reid Quartet
+UID:62517513-40d5-46c0-b9f5-af09cca37598@6251.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-49
 END:VEVENT
 END:VCALENDAR
