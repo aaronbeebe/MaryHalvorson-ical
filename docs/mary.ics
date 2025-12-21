@@ -3,18 +3,18 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Rooms Fukuoka\, Japan\, 〒810-0041 Fukuoka\, Chuo Ward\, Daimyō\, 2-chōme−1−５０ 大名Ｏ、Ｎ、Ｏビル 3階
-DTSTART:20251229T183000Z
-SUMMARY:Tomeka Reid Quartet
-UID:ecd02d87-b210-4227-a22e-80c3e21fc761@ecd0.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-51
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Orinasu Yame\, 602 Motomachi\, Yame\, Fukuoka 834-0031\, Japan
 DTSTART:20251223T193000Z
 SUMMARY:Tomeka Reid Quartet
-UID:375ae8a0-ac07-4df0-9715-cdf1d2592549@375a.org
+UID:ccd17225-43c4-4301-b7a3-f4276f459cc8@ccd1.org
 URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-50
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Rooms Fukuoka\, Japan\, 〒810-0041 Fukuoka\, Chuo Ward\, Daimyō\, 2-chōme−1−５０ 大名Ｏ、Ｎ、Ｏビル 3階
+DTSTART:20251229T183000Z
+SUMMARY:Tomeka Reid Quartet
+UID:32b8ec8f-e882-4ee3-bdc8-29e14608762d@32b8.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-51
 END:VEVENT
 END:VCALENDAR
