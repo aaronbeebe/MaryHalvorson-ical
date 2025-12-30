@@ -3,10 +3,82 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Hey Nonny Women's Jazz Festival\, 10 S Vail Ave\, Arlington Heights\, IL 60005\, USA
+DTSTART:20260106T193000Z
+SUMMARY:Tomeka Reid Quartet
+UID:2c9c1048-c499-45a5-bd5f-fd0f1e054e0f@2c9c.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-52
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:The Stone\, 55 W 13th St\, New York\, NY 10011\, USA
+DTSTART:20260110T203000Z
+SUMMARY:Ches Smith: Clone Row
+UID:3d278a00-469b-45e6-aa4a-c134bc1e358b@3d27.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-26
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Révéler\, 3108 W Cary St\, Richmond\, VA 23221\, USA
+DTSTART:20260112T190000Z
+SUMMARY:Ches Smith: Clone Row
+UID:2f471551-9225-4b21-aaa1-622e43582537@2f47.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-30
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Winter Jazz Festival\, 146 Broadway\, Brooklyn\, NY 11211\, USA
+DTSTART:20260110T224500Z
+SUMMARY:Tomeka Reid Quartet
+UID:9645cd49-f104-4251-a20e-21ba64394fcc@9645.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-53
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:The Stone\, 55 W 13th St\, New York\, NY 10011\, USA
+DTSTART:20260108T203000Z
+SUMMARY:Ches Smith: Clone Row
+UID:d2e6f4c8-9541-4b54-8c91-5ae1ebd67f54@d2e6.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-24
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Solar Myth\, 1131 S Broad St\, Philadelphia\, PA 19147\, USA
+DTSTART:20260113T200000Z
+SUMMARY:Ches Smith: Clone Row
+UID:8b844ff8-b3fd-4982-b3f3-1e11b0e5258d@8b84.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-31
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Tonal Park\, 7014-C Westmoreland Ave\, Takoma Park\, MD 20912\, USA
+DTSTART:20260111T190000Z
+SUMMARY:Ches Smith: Clone Row
+UID:23f15ff3-0cd7-4ff3-bf61-bc5449124404@23f1.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-29
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:The Stone\, 55 W 13th St\, New York\, NY 10011\, USA
+DTSTART:20260107T203000Z
+SUMMARY:Ches Smith: Clone Row
+UID:673b72cb-86d6-4f7f-aa85-6c5ac57ff959@673b.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-23
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Rooms Fukuoka\, Japan\, 〒810-0041 Fukuoka\, Chuo Ward\, Daimyō\, 2-chōme−1−５０ 大名Ｏ、Ｎ、Ｏビル 3階
 DTSTART:20251229T183000Z
 SUMMARY:Tomeka Reid Quartet
-UID:d5e2039a-1225-48e9-87f3-f1172f514b6b@d5e2.org
+UID:3d7befd2-00f8-4d23-90e4-29ead38e951a@3d7b.org
 URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-51
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:The Stone\, 55 W 13th St\, New York\, NY 10011\, USA
+DTSTART:20260115T203000Z
+SUMMARY:Ches Smith: Clone Row
+UID:58c57699-d1ab-4707-a110-e5f62504fb57@58c5.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-28
 END:VEVENT
 END:VCALENDAR
