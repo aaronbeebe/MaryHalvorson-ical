@@ -3,42 +3,18 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:The Stone\, 55 W 13th St\, New York\, NY 10011\, USA
-DTSTART:20260110T203000Z
+LOCATION:Solar Myth\, 1131 S Broad St\, Philadelphia\, PA 19147\, USA
+DTSTART:20260113T200000Z
 SUMMARY:Ches Smith: Clone Row
-UID:e713aa86-de62-4b72-bc92-6a5013eff155@e713.org
-URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-26
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Winter Jazz Festival\, 146 Broadway\, Brooklyn\, NY 11211\, USA
-DTSTART:20260110T224500Z
-SUMMARY:Tomeka Reid Quartet
-UID:7d0cf112-c605-42d7-9aee-b21d5414d07b@7d0c.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-53
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Sons d'Hiver Festival\, Place Charles de Gaulle\, 69250 Neuville-sur-Saône\, France
-DTSTART:20260203T200000Z
-SUMMARY:Thumbscrew
-UID:9801aa33-2397-4e59-ae76-d25cef710c2c@9801.org
-URL:https://www.maryhalvorson.com/event-details/thumbscrew-35
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:The Jazz Gallery\, 1158 Broadway 5th floor\, New York\, NY 10001\, USA
-DTSTART:20260124T210000Z
-SUMMARY:Anna Webber Nonet
-UID:c3e667ab-ca1a-4372-9448-2bf3f8578f5e@c3e6.org
-URL:https://www.maryhalvorson.com/event-details/anna-webber-nonet-4
+UID:f97b1ddd-e171-4cad-8ec2-14bc755fc236@f97b.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-31
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Sons d'Hiver Festival\, 98 Rue de Fontenay\, 94300 Vincennes\, France
 DTSTART:20260205T200000Z
 SUMMARY:Illegal Crowns
-UID:6b3784d1-3007-4ff4-8d42-8a7f7711b76a@6b37.org
+UID:b97796d1-8347-4fd3-993c-5141c5e612b3@b977.org
 URL:https://www.maryhalvorson.com/event-details/illegal-crowns-7
 END:VEVENT
 BEGIN:VEVENT
@@ -46,23 +22,79 @@ DURATION:PT2H
 LOCATION:Ossicles Festival\, 200 W Marshall St\, Richmond\, VA 23220\, USA
 DTSTART:20260325T190000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:e1113956-533c-4b79-be4a-204524207332@e111.org
+UID:4d6f5fa8-85b6-4fd5-8a92-8d7c47b3934f@4d6f.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-10
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:The Jazz Gallery\, 1158 Broadway 5th floor\, New York\, NY 10001\, USA
-DTSTART:20260124T190000Z
+DTSTART:20260124T210000Z
 SUMMARY:Anna Webber Nonet
-UID:a4c7804a-13f9-4278-8b7b-fa4258a922fc@a4c7.org
-URL:https://www.maryhalvorson.com/event-details/anna-webber-nonet-3
+UID:7e95ce7c-4822-4d02-8163-9aaa7c901289@7e95.org
+URL:https://www.maryhalvorson.com/event-details/anna-webber-nonet-4
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:The Jazz Gallery\, 1158 Broadway 5th floor\, New York\, NY 10001\, USA
+DTSTART:20260123T190000Z
+SUMMARY:Anna Webber Nonet
+UID:36aa169c-87f4-43a4-b3da-3818c24fcf55@36aa.org
+URL:https://www.maryhalvorson.com/event-details/anna-webber-nonet-1
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Tonal Park\, 7014-C Westmoreland Ave\, Takoma Park\, MD 20912\, USA
+DTSTART:20260111T190000Z
+SUMMARY:Ches Smith: Clone Row
+UID:634b598d-040e-4476-bb83-0c46696d9891@634b.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-29
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:The Stone\, 55 W 13th St\, New York\, NY 10011\, USA
+DTSTART:20260115T203000Z
+SUMMARY:Ches Smith: Clone Row
+UID:16563981-4592-4b63-9ae5-f64961364e51@1656.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-28
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Révéler\, 3108 W Cary St\, Richmond\, VA 23221\, USA
+DTSTART:20260112T190000Z
+SUMMARY:Ches Smith: Clone Row
+UID:ec927049-b966-49ba-9659-49bec92f4cf9@ec92.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-30
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:The Stone\, 55 W 13th St\, New York\, NY 10011\, USA
+DTSTART:20260130T203000Z
+SUMMARY:Kalia Vandever
+UID:bcdf9096-03d7-4949-b8a3-a85f18758edc@bcdf.org
+URL:https://www.maryhalvorson.com/event-details/kalia-vandever
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:The Stone\, 55 W 13th St\, New York\, NY 10011\, USA
+DTSTART:20260114T203000Z
+SUMMARY:Ches Smith: Clone Row
+UID:5549c369-10d2-4c07-ab65-3cff77b6152e@5549.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-27
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:The Iron Horse\, 18 Center St\, Northampton\, MA 01060\, USA
+DTSTART:20260122T193000Z
+SUMMARY:Anna Webber Nonet
+UID:f82be9f8-956a-4e4e-abcc-c6ec6306e716@f82b.org
+URL:https://www.maryhalvorson.com/event-details/anna-webber-nonet
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:701 CCA Gallery\, 701 Whaley St\, Columbia\, SC 29201\, USA
 DTSTART:20260329T180000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:88666cf6-aad5-4165-9757-01b29a6e5940@8866.org
+UID:988d411c-06b0-426b-aee9-d6df3840eab7@988d.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-9
 END:VEVENT
 BEGIN:VEVENT
@@ -70,79 +102,47 @@ DURATION:PT2H
 LOCATION:The Jazz Gallery\, 1158 Broadway 5th floor\, New York\, NY 10001\, USA
 DTSTART:20260123T210000Z
 SUMMARY:Anna Webber Nonet
-UID:777c1c84-630f-4116-a335-4b807dd26722@777c.org
+UID:41142992-102d-42f0-8d5f-ede44b7957fe@4114.org
 URL:https://www.maryhalvorson.com/event-details/anna-webber-nonet-2
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Révéler\, 3108 W Cary St\, Richmond\, VA 23221\, USA
-DTSTART:20260112T190000Z
-SUMMARY:Ches Smith: Clone Row
-UID:e0e87b2f-f030-4b54-a126-6097a12abff9@e0e8.org
-URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-30
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Solar Myth\, 1131 S Broad St\, Philadelphia\, PA 19147\, USA
-DTSTART:20260113T200000Z
-SUMMARY:Ches Smith: Clone Row
-UID:e1f9d9e6-263a-455a-92f9-a6a4596fefc3@e1f9.org
-URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-31
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Tonal Park\, 7014-C Westmoreland Ave\, Takoma Park\, MD 20912\, USA
-DTSTART:20260111T190000Z
-SUMMARY:Ches Smith: Clone Row
-UID:4c4e4d94-6a1e-40e1-a32f-6db0e723fc71@4c4e.org
-URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-29
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:The Stone\, 55 W 13th St\, New York\, NY 10011\, USA
-DTSTART:20260130T203000Z
-SUMMARY:Kalia Vandever
-UID:3fd90def-f0ca-43a1-8fb2-876254b8e93e@3fd9.org
-URL:https://www.maryhalvorson.com/event-details/kalia-vandever
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:The Iron Horse\, 18 Center St\, Northampton\, MA 01060\, USA
-DTSTART:20260122T193000Z
-SUMMARY:Anna Webber Nonet
-UID:3d3b8015-c3ed-460b-bc5f-d2ff37ec4c85@3d3b.org
-URL:https://www.maryhalvorson.com/event-details/anna-webber-nonet
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:The Jazz Gallery\, 1158 Broadway 5th floor\, New York\, NY 10001\, USA
-DTSTART:20260123T190000Z
-SUMMARY:Anna Webber Nonet
-UID:f46760f8-b5d3-453c-a242-4d8f358b5dca@f467.org
-URL:https://www.maryhalvorson.com/event-details/anna-webber-nonet-1
+LOCATION:Sons d'Hiver Festival\, Place Charles de Gaulle\, 69250 Neuville-sur-Saône\, France
+DTSTART:20260203T200000Z
+SUMMARY:Thumbscrew
+UID:02b7c173-82b2-4bc1-949d-065922aa82df@02b7.org
+URL:https://www.maryhalvorson.com/event-details/thumbscrew-35
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Big Ears Festival\, 604 S Gay St\, Knoxville\, TN 37902\, USA
 DTSTART:20260328T143000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:43963c32-ae88-4d0c-a13e-4d48b330e4cc@4396.org
+UID:3e8e0b44-3e29-48e6-bcd0-cda09603b45d@3e8e.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-11
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:The Stone\, 55 W 13th St\, New York\, NY 10011\, USA
-DTSTART:20260114T203000Z
-SUMMARY:Ches Smith: Clone Row
-UID:054b839f-2fd6-49e8-ade3-7d2e31760674@054b.org
-URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-27
+LOCATION:Getty Museum\, 1200 Getty Center Dr\, Los Angeles\, CA 90049\, USA
+DTSTART:20260331T190000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:8e205942-7104-4bed-a83c-dd32dab4d110@8e20.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-12
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:The Stone\, 55 W 13th St\, New York\, NY 10011\, USA
-DTSTART:20260115T203000Z
-SUMMARY:Ches Smith: Clone Row
-UID:dd2fe433-3891-47fd-95b9-3877a1eea4dc@dd2f.org
-URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-28
+LOCATION:Kuumbwa Jazz Center\, 320-2 Cedar St\, Santa Cruz\, CA 95060\, USA
+DTSTART:20260402T190000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:2f670afd-5443-4a2a-98fd-ac070bc9f4f2@2f67.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-13
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:The Jazz Gallery\, 1158 Broadway 5th floor\, New York\, NY 10001\, USA
+DTSTART:20260124T190000Z
+SUMMARY:Anna Webber Nonet
+UID:44c0f2f6-4268-413c-af7b-ebab5daec418@44c0.org
+URL:https://www.maryhalvorson.com/event-details/anna-webber-nonet-3
 END:VEVENT
 END:VCALENDAR
