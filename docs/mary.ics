@@ -3,34 +3,34 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Kuumbwa Jazz Center\, 320-2 Cedar St\, Santa Cruz\, CA 95060\, USA
-DTSTART:20260402T190000Z
+LOCATION:The Stone\, 55 W 13th St\, New York\, NY 10011\, USA
+DTSTART:20260130T203000Z
+SUMMARY:Kalia Vandever
+UID:3179cb7d-5850-4eab-8481-3df56a756c15@3179.org
+URL:https://www.maryhalvorson.com/event-details/kalia-vandever
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Ossicles Festival\, 200 W Marshall St\, Richmond\, VA 23220\, USA
+DTSTART:20260325T190000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:cd644c6d-ac3f-48d1-ba29-b6850b0b2466@cd64.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-13
+UID:c6ea2b8d-1bcb-436b-a0f5-465ccb4cc390@c6ea.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-10
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:The Jazz Gallery\, 1158 Broadway 5th floor\, New York\, NY 10001\, USA
-DTSTART:20260123T190000Z
-SUMMARY:Anna Webber Nonet
-UID:b5022471-3576-490e-a7df-161663a989a6@b502.org
-URL:https://www.maryhalvorson.com/event-details/anna-webber-nonet-1
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:The Iron Horse\, 18 Center St\, Northampton\, MA 01060\, USA
-DTSTART:20260122T193000Z
-SUMMARY:Anna Webber Nonet
-UID:d29e4cae-5e9b-4ca4-95e0-218fcf353d4b@d29e.org
-URL:https://www.maryhalvorson.com/event-details/anna-webber-nonet
+LOCATION:701 CCA Gallery\, 701 Whaley St\, Columbia\, SC 29201\, USA
+DTSTART:20260329T180000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:2d296c4b-41f0-4e8c-b90c-5ae76977d763@2d29.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-9
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:The Jazz Gallery\, 1158 Broadway 5th floor\, New York\, NY 10001\, USA
 DTSTART:20260124T190000Z
 SUMMARY:Anna Webber Nonet
-UID:30e7cb9f-4739-4ed5-a6fa-6d1aa1699851@30e7.org
+UID:ea334178-264f-428e-808c-043060e6ebe8@ea33.org
 URL:https://www.maryhalvorson.com/event-details/anna-webber-nonet-3
 END:VEVENT
 BEGIN:VEVENT
@@ -38,95 +38,95 @@ DURATION:PT2H
 LOCATION:The Jazz Gallery\, 1158 Broadway 5th floor\, New York\, NY 10001\, USA
 DTSTART:20260123T210000Z
 SUMMARY:Anna Webber Nonet
-UID:e7d80a6a-3dea-4a00-a391-c97e7ad2f06b@e7d8.org
+UID:3ec51397-9ace-47d2-ba8f-458eb4beade1@3ec5.org
 URL:https://www.maryhalvorson.com/event-details/anna-webber-nonet-2
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:701 CCA Gallery\, 701 Whaley St\, Columbia\, SC 29201\, USA
-DTSTART:20260329T180000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:ba841d3a-6f35-46c7-9ff5-44bd8790f574@ba84.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-9
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Getty Museum\, 1200 Getty Center Dr\, Los Angeles\, CA 90049\, USA
-DTSTART:20260331T190000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:11a65d76-e609-44b6-9511-6ed3441f60a2@11a6.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-12
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Sons d'Hiver Festival\, 98 Rue de Fontenay\, 94300 Vincennes\, France
-DTSTART:20260205T200000Z
-SUMMARY:Illegal Crowns
-UID:b1369178-4785-4c1d-9128-492728e11d29@b136.org
-URL:https://www.maryhalvorson.com/event-details/illegal-crowns-7
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Big Ears Festival\, 604 S Gay St\, Knoxville\, TN 37902\, USA
-DTSTART:20260328T143000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:24685bae-71e6-4bec-8569-9205ec09cb2a@2468.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-11
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Sons d'Hiver Festival\, Place Charles de Gaulle\, 69250 Neuville-sur-Saône\, France
-DTSTART:20260203T200000Z
-SUMMARY:Thumbscrew
-UID:2ef474a9-f2c3-4a96-823e-adaff3559a26@2ef4.org
-URL:https://www.maryhalvorson.com/event-details/thumbscrew-35
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Ossicles Festival\, 200 W Marshall St\, Richmond\, VA 23220\, USA
-DTSTART:20260325T190000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:9e1cd5e3-900b-431f-a927-5c3f2c262ab8@9e1c.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-10
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:The Cedar\, 416 Cedar Ave\, Minneapolis\, MN 55454\, USA
-DTSTART:20260405T193000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:ea80e6a6-7bea-4483-bd23-aae164571921@ea80.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-16
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:The Jazz Gallery\, 1158 Broadway 5th floor\, New York\, NY 10001\, USA
-DTSTART:20260124T210000Z
+DTSTART:20260123T190000Z
 SUMMARY:Anna Webber Nonet
-UID:2c2ac87c-a9c5-4453-9bf1-08494115fccf@2c2a.org
-URL:https://www.maryhalvorson.com/event-details/anna-webber-nonet-4
+UID:13d3032a-e308-48c3-b985-ecbb4529843d@13d3.org
+URL:https://www.maryhalvorson.com/event-details/anna-webber-nonet-1
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Stop/ Time\, 119 E College St\, Iowa City\, IA 52240\, USA
 DTSTART:20260404T210000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:fb6986d6-a472-4cbc-ba7c-34e75cfb7f44@fb69.org
+UID:3552a642-26d8-4000-82ce-95ed5a3789f5@3552.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-15
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:The Stone\, 55 W 13th St\, New York\, NY 10011\, USA
-DTSTART:20260130T203000Z
-SUMMARY:Kalia Vandever
-UID:71f2eb81-86d1-4ca1-9a3d-2ac651ce5ca8@71f2.org
-URL:https://www.maryhalvorson.com/event-details/kalia-vandever
+LOCATION:Kuumbwa Jazz Center\, 320-2 Cedar St\, Santa Cruz\, CA 95060\, USA
+DTSTART:20260402T190000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:4478c7e5-d1a6-4093-88c9-5934268e5a3a@4478.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-13
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:The Iron Horse\, 18 Center St\, Northampton\, MA 01060\, USA
+DTSTART:20260122T193000Z
+SUMMARY:Anna Webber Nonet
+UID:07505202-a951-456b-b0f3-ee17d4731d16@0750.org
+URL:https://www.maryhalvorson.com/event-details/anna-webber-nonet
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Big Ears Festival\, 604 S Gay St\, Knoxville\, TN 37902\, USA
+DTSTART:20260328T143000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:6a81e8b7-25f1-4273-b5b5-56aec01f0b43@6a81.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-11
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Freight & Salvage\, 2020 Addison St\, Berkeley\, CA 94704\, USA
 DTSTART:20260403T200000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:c01e375a-f1b8-4016-b99b-25e55a72522a@c01e.org
+UID:2cb05fe2-8428-496d-95b5-d57dede6762d@2cb0.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-14
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Sons d'Hiver Festival\, Place Charles de Gaulle\, 69250 Neuville-sur-Saône\, France
+DTSTART:20260203T200000Z
+SUMMARY:Thumbscrew
+UID:ec592c23-8849-4fd1-a9dd-078324d95b84@ec59.org
+URL:https://www.maryhalvorson.com/event-details/thumbscrew-35
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Getty Museum\, 1200 Getty Center Dr\, Los Angeles\, CA 90049\, USA
+DTSTART:20260331T190000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:38192a45-6d23-425f-8293-52debe6172ba@3819.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-12
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:The Jazz Gallery\, 1158 Broadway 5th floor\, New York\, NY 10001\, USA
+DTSTART:20260124T210000Z
+SUMMARY:Anna Webber Nonet
+UID:73af58b0-ffa9-4ca6-92e0-8803b784d750@73af.org
+URL:https://www.maryhalvorson.com/event-details/anna-webber-nonet-4
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Sons d'Hiver Festival\, 98 Rue de Fontenay\, 94300 Vincennes\, France
+DTSTART:20260205T200000Z
+SUMMARY:Illegal Crowns
+UID:b83f49cb-acd3-4550-a82c-d09314542d9e@b83f.org
+URL:https://www.maryhalvorson.com/event-details/illegal-crowns-7
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:The Cedar\, 416 Cedar Ave\, Minneapolis\, MN 55454\, USA
+DTSTART:20260405T193000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:fe95e56e-ebfd-4b71-8564-ec3c79cc4a1e@fe95.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-16
 END:VEVENT
 END:VCALENDAR
