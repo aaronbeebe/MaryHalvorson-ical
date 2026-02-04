@@ -3,82 +3,82 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Freight & Salvage\, 2020 Addison St\, Berkeley\, CA 94704\, USA
-DTSTART:20260403T200000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:c064b101-add4-4412-83a7-3639fe968019@c064.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-14
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Big Ears Festival\, 604 S Gay St\, Knoxville\, TN 37902\, USA
-DTSTART:20260328T143000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:987ad854-37b7-437b-ab99-71409e2f1fc4@987a.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-11
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Kuumbwa Jazz Center\, 320-2 Cedar St\, Santa Cruz\, CA 95060\, USA
-DTSTART:20260402T190000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:2d4a8697-c7ea-4504-8f69-acbc2967dace@2d4a.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-13
+LOCATION:Sons d'Hiver Festival\, 98 Rue de Fontenay\, 94300 Vincennes\, France
+DTSTART:20260205T200000Z
+SUMMARY:Illegal Crowns
+UID:8333253b-62e9-439b-8bbd-f28397fd0b66@8333.org
+URL:https://www.maryhalvorson.com/event-details/illegal-crowns-7
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Stop/ Time\, 119 E College St\, Iowa City\, IA 52240\, USA
 DTSTART:20260404T210000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:231eeef1-fc02-4d4e-9566-7d601d1262c0@231e.org
+UID:cfbbf712-f31e-44e3-a9b5-ce4e00871e7d@cfbb.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-15
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:The Cedar\, 416 Cedar Ave\, Minneapolis\, MN 55454\, USA
-DTSTART:20260405T193000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:0fd5e831-6b5e-4d46-bceb-1e1d55c8c247@0fd5.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-16
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Sons d'Hiver Festival\, 98 Rue de Fontenay\, 94300 Vincennes\, France
-DTSTART:20260205T200000Z
-SUMMARY:Illegal Crowns
-UID:460e24c4-cc63-41bf-b95d-635c26a48543@460e.org
-URL:https://www.maryhalvorson.com/event-details/illegal-crowns-7
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:701 CCA Gallery\, 701 Whaley St\, Columbia\, SC 29201\, USA
-DTSTART:20260329T180000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:7e386706-b20b-480e-a525-7be3b3af529e@7e38.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-9
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Ossicles Festival\, 200 W Marshall St\, Richmond\, VA 23220\, USA
-DTSTART:20260325T190000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:36132a50-e498-40ab-83f1-db90eb431313@3613.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-10
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Getty Museum\, 1200 Getty Center Dr\, Los Angeles\, CA 90049\, USA
-DTSTART:20260331T190000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:c7b99c7c-9b56-46d6-a06c-4d70b90d046d@c7b9.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-12
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Sons d'Hiver Festival\, Place Charles de Gaulle\, 69250 Neuville-sur-Saône\, France
 DTSTART:20260203T200000Z
 SUMMARY:Thumbscrew
-UID:918fab51-a1a6-4fff-8358-3a6a05703829@918f.org
+UID:0cffb63e-1952-49eb-88dc-50a3db57aee7@0cff.org
 URL:https://www.maryhalvorson.com/event-details/thumbscrew-35
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Getty Museum\, 1200 Getty Center Dr\, Los Angeles\, CA 90049\, USA
+DTSTART:20260331T190000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:57b5f1bb-296a-48ef-a4dd-9ffd48494ba0@57b5.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-12
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Ossicles Festival\, 200 W Marshall St\, Richmond\, VA 23220\, USA
+DTSTART:20260325T190000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:1f04ece5-689f-4118-a551-4b13c4d5c89a@1f04.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-10
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:701 CCA Gallery\, 701 Whaley St\, Columbia\, SC 29201\, USA
+DTSTART:20260329T180000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:a4ec3e46-3b87-4451-a7c2-a5273e61fc60@a4ec.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-9
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Kuumbwa Jazz Center\, 320-2 Cedar St\, Santa Cruz\, CA 95060\, USA
+DTSTART:20260402T190000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:f3d04bd8-1fbe-46dd-9450-a588a689e43e@f3d0.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-13
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Freight & Salvage\, 2020 Addison St\, Berkeley\, CA 94704\, USA
+DTSTART:20260403T200000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:981a9e38-d8f2-4fd8-8be9-828ed723bc4b@981a.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-14
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:The Cedar\, 416 Cedar Ave\, Minneapolis\, MN 55454\, USA
+DTSTART:20260405T193000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:b28e9cb1-b96b-442c-9a63-d33004a56dfd@b28e.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-16
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Big Ears Festival\, 604 S Gay St\, Knoxville\, TN 37902\, USA
+DTSTART:20260328T143000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:758561b4-e13e-4f92-bc09-12c20b38a82f@7585.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-11
 END:VEVENT
 END:VCALENDAR
