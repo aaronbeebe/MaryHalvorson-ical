@@ -6,63 +6,63 @@ DURATION:PT2H
 LOCATION:The Cedar\, 416 Cedar Ave\, Minneapolis\, MN 55454\, USA
 DTSTART:20260405T193000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:6e6c74c4-020c-4145-80ba-d59840f632f6@6e6c.org
+UID:5708ab1e-5585-459c-93b1-7c0804589f64@5708.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-16
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:701 CCA Gallery\, 701 Whaley St\, Columbia\, SC 29201\, USA
-DTSTART:20260329T180000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:2af003f6-5c57-4972-b4b7-00928a31752f@2af0.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-9
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Kuumbwa Jazz Center\, 320-2 Cedar St\, Santa Cruz\, CA 95060\, USA
-DTSTART:20260402T190000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:b0567985-7b72-441f-85d8-882f1cf960b6@b056.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-13
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Freight & Salvage\, 2020 Addison St\, Berkeley\, CA 94704\, USA
-DTSTART:20260403T200000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:c50e0485-0d00-4a0c-9d50-3b98052812dc@c50e.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-14
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Getty Museum\, 1200 Getty Center Dr\, Los Angeles\, CA 90049\, USA
-DTSTART:20260331T190000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:98cb64f6-bf9e-45a0-bbfa-ed3e8b749047@98cb.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-12
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Ossicles Festival\, 200 W Marshall St\, Richmond\, VA 23220\, USA
 DTSTART:20260325T190000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:dcddf51b-2326-45f9-b34a-c16577e74ffb@dcdd.org
+UID:b3f3b2e4-fcf0-43e1-87f4-22682f7bc532@b3f3.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-10
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Getty Museum\, 1200 Getty Center Dr\, Los Angeles\, CA 90049\, USA
+DTSTART:20260331T190000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:5d203e8b-8186-41fc-860e-2e72a1fe88d7@5d20.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-12
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:701 CCA Gallery\, 701 Whaley St\, Columbia\, SC 29201\, USA
+DTSTART:20260329T180000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:8c9f630c-c1dd-4302-82ca-a8d52c446b45@8c9f.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-9
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Big Ears Festival\, 604 S Gay St\, Knoxville\, TN 37902\, USA
 DTSTART:20260328T143000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:3077450f-be78-4314-b604-5701eec5176f@3077.org
+UID:55453557-a132-44a5-978b-58ee89ce5d09@5545.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-11
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Freight & Salvage\, 2020 Addison St\, Berkeley\, CA 94704\, USA
+DTSTART:20260403T200000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:b208e849-a057-4b37-a1db-76a48db1c07c@b208.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-14
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Kuumbwa Jazz Center\, 320-2 Cedar St\, Santa Cruz\, CA 95060\, USA
+DTSTART:20260402T190000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:62725fad-cb72-4da6-a8ca-b7b8addbe51c@6272.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-13
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Stop/ Time\, 119 E College St\, Iowa City\, IA 52240\, USA
 DTSTART:20260404T210000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:800f0c75-df03-42cf-a9ff-ce21d4bcc825@800f.org
+UID:ba5fe16c-4ab8-4fb6-bac9-c5779bc08790@ba5f.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-15
 END:VEVENT
 END:VCALENDAR
