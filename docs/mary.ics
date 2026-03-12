@@ -3,106 +3,50 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Cunneen-Hackett Arts Center\, 9 Vassar St\, Poughkeepsie\, NY 12601\, USA
-DTSTART:20260411T200000Z
-SUMMARY:Jamaaladeen Tacuma & Mary Halvorson
-UID:78c36de9-92b1-4821-a06e-20fcb62e63f6@78c3.org
-URL:https://www.maryhalvorson.com/event-details/jamaaladeen-tacuma-mary-halvorson
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:701 CCA Gallery\, 701 Whaley St\, Columbia\, SC 29201\, USA
-DTSTART:20260329T180000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:b4b1862e-f0d5-4330-8780-cf360d38bf27@b4b1.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-9
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Big Ears Festival\, 416 W Jackson Ave\, Knoxville\, TN 37902\, USA
-DTSTART:20260326T181500Z
-SUMMARY:Ches Smith: Clone Row
-UID:9bff96c9-3c62-4437-8601-cfe5b1d7b6a1@9bff.org
-URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-39
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Stadtgarten Köln\, Venloer Str. 40\, 50672 Köln\, Germany
-DTSTART:20260322T180000Z
-SUMMARY:Ches Smith: Clone Row
-UID:212ed592-dd49-42d1-8187-cec72df196c8@212e.org
-URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-38
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Ossicles Festival at Gallery5\, 200 W Marshall St\, Richmond\, VA 23220\, USA
-DTSTART:20260325T190000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:25b51398-b744-452f-b290-730f427d1d4b@25b5.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-10
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Werkplaats Walter\, Van Lintstraat 43/45-47\, 1070 Anderlecht\, Belgium
-DTSTART:20260321T201500Z
-SUMMARY:Ches Smith: Clone Row
-UID:448ad929-44e5-4df6-afac-4fa185f8abea@448a.org
-URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-37
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Big Ears Festival\, 803 S Gay St\, Knoxville\, TN 37902\, USA
-DTSTART:20260326T230000Z
-SUMMARY:Marc Ribot's Shrek
-UID:30916315-6470-4606-a94f-3c50957bf241@3091.org
-URL:https://www.maryhalvorson.com/event-details/marc-ribots-shrek
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Big Ears Festival\, 604 S Gay St\, Knoxville\, TN 37902\, USA
-DTSTART:20260328T143000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:bd19e229-3b85-4f75-bf6b-ceefaec79072@bd19.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-11
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Stop/ Time\, 119 E College St\, Iowa City\, IA 52240\, USA
-DTSTART:20260404T210000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:ae17542e-6318-401d-bc30-52964ae65f88@ae17.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-15
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Gr8 - Cultureel Verzamelgebouw & Eventlo\, Prinsegracht 8\, 2512 GA Den Haag\, Netherlands
 DTSTART:20260312T200000Z
 SUMMARY:Ches Smith: Clone Row
-UID:12fd7d04-6704-49de-933f-1f1e60ef7e7c@12fd.org
+UID:30d781db-74d2-40c3-a6fc-385180b3e47b@30d7.org
 URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-32
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Pedro Muñoz Seca Municipal Theater\, Pl. del Polvorista\, 4\, 11500 El Puerto de Sta María\, Cádiz\, Spain
-DTSTART:20260315T200000Z
-SUMMARY:Ches Smith: Clone Row
-UID:3fc30121-afb7-42bb-9a77-4cbcb457652f@3fc3.org
-URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-34
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Opus Jazz Club\, Budapest\, Mátyás u. 8\, 1093 Hungary
 DTSTART:20260314T200000Z
 SUMMARY:Ches Smith: Clone Row
-UID:3fd5ad42-b71a-4c2f-b912-6264e5a7fc2b@3fd5.org
+UID:74bc88aa-d942-4557-ba28-66946e8b2d47@74bc.org
 URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-33
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Cunneen-Hackett Arts Center\, 9 Vassar St\, Poughkeepsie\, NY 12601\, USA
+DTSTART:20260411T200000Z
+SUMMARY:Jamaaladeen Tacuma & Mary Halvorson
+UID:36a6f649-f2e1-468b-a942-9564982a1f70@36a6.org
+URL:https://www.maryhalvorson.com/event-details/jamaaladeen-tacuma-mary-halvorson
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Getty Museum\, 1200 Getty Center Dr\, Los Angeles\, CA 90049\, USA
+DTSTART:20260331T190000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:622d2eee-10d3-44da-a4eb-5f19d73029dc@622d.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-12
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:701 CCA Gallery\, 701 Whaley St\, Columbia\, SC 29201\, USA
+DTSTART:20260329T180000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:cff42926-b9ed-4a98-adf1-7c7a4e600fee@cff4.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-9
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Festival de Jazz de Terrassa\, Passatge de Tete Montoliu\, 24\, 08221 Terrassa\, Barcelona\, Spain
 DTSTART:20260319T213000Z
 SUMMARY:Ches Smith: Clone Row
-UID:5a4dc061-b26f-42da-b93c-be8c952a5666@5a4d.org
+UID:dd1829da-b2a9-4397-8040-1b4bbbc6a527@dd18.org
 URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-35
 END:VEVENT
 BEGIN:VEVENT
@@ -110,39 +54,95 @@ DURATION:PT2H
 LOCATION:Freight & Salvage\, 2020 Addison St\, Berkeley\, CA 94704\, USA
 DTSTART:20260403T200000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:a853933d-8bf5-44dc-9dd8-22fdbaa3aeca@a853.org
+UID:521bafa7-aadc-45ce-ba79-5fe4ec576043@521b.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-14
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Kuumbwa Jazz Center\, 320-2 Cedar St\, Santa Cruz\, CA 95060\, USA
-DTSTART:20260402T190000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:6e9c6ddd-ba64-4f26-9598-f268fa8ff1eb@6e9c.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-13
+LOCATION:Pedro Muñoz Seca Municipal Theater\, Pl. del Polvorista\, 4\, 11500 El Puerto de Sta María\, Cádiz\, Spain
+DTSTART:20260315T200000Z
+SUMMARY:Ches Smith: Clone Row
+UID:58e57269-e42b-444e-9f73-ba20687c259a@58e5.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-34
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Werkplaats Walter\, Van Lintstraat 43/45-47\, 1070 Anderlecht\, Belgium
+DTSTART:20260321T201500Z
+SUMMARY:Ches Smith: Clone Row
+UID:0d2ec4f9-6a99-4de2-903c-e4aeead5233d@0d2e.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-37
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:The Cedar\, 416 Cedar Ave\, Minneapolis\, MN 55454\, USA
 DTSTART:20260405T193000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:7761e4e8-225a-4502-aec1-3c07044ddc28@7761.org
+UID:262c0164-5fd2-4589-afea-49da627f506a@262c.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-16
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Stadtgarten Köln\, Venloer Str. 40\, 50672 Köln\, Germany
+DTSTART:20260322T180000Z
+SUMMARY:Ches Smith: Clone Row
+UID:f7cc589d-fee3-4537-9b8e-9f23ac78e6e5@f7cc.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-38
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Stop/ Time\, 119 E College St\, Iowa City\, IA 52240\, USA
+DTSTART:20260404T210000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:235f853b-3f33-48fd-8bea-4cdee2780cb3@235f.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-15
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:BIMHUIS\, Piet Heinkade 3\, 1019 GM Amsterdam\, Netherlands
 DTSTART:20260320T203000Z
 SUMMARY:Ches Smith: Clone Row
-UID:e69c1ef3-f9a2-4fe9-b086-518e64246d2e@e69c.org
+UID:b623b45a-0a96-4f73-b72c-abfcd69d95ff@b623.org
 URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-36
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Getty Museum\, 1200 Getty Center Dr\, Los Angeles\, CA 90049\, USA
-DTSTART:20260331T190000Z
+LOCATION:Big Ears Festival\, 416 W Jackson Ave\, Knoxville\, TN 37902\, USA
+DTSTART:20260326T181500Z
+SUMMARY:Ches Smith: Clone Row
+UID:fa0ddfe3-2600-4062-bd23-9586f1693a66@fa0d.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-39
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Ossicles Festival at Gallery5\, 200 W Marshall St\, Richmond\, VA 23220\, USA
+DTSTART:20260325T190000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:3cd25391-dc7a-42a3-a966-f12828af7ca3@3cd2.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-12
+UID:a0cfdde4-6262-4818-917a-28b1c9c62c66@a0cf.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-10
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Big Ears Festival\, 604 S Gay St\, Knoxville\, TN 37902\, USA
+DTSTART:20260328T143000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:aded2af1-fe0e-43cd-b9ec-88b2d35d40c5@aded.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-11
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Big Ears Festival\, 803 S Gay St\, Knoxville\, TN 37902\, USA
+DTSTART:20260326T230000Z
+SUMMARY:Marc Ribot's Shrek
+UID:794044d5-c1b2-4add-829e-0407bad1ba71@7940.org
+URL:https://www.maryhalvorson.com/event-details/marc-ribots-shrek
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Kuumbwa Jazz Center\, 320-2 Cedar St\, Santa Cruz\, CA 95060\, USA
+DTSTART:20260402T190000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:8da9469c-ca65-469d-9b14-2bd6d6cdc679@8da9.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-13
 END:VEVENT
 END:VCALENDAR
