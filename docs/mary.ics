@@ -3,58 +3,58 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Stop/ Time\, 119 E College St\, Iowa City\, IA 52240\, USA
-DTSTART:20260404T210000Z
+LOCATION:Freight & Salvage\, 2020 Addison St\, Berkeley\, CA 94704\, USA
+DTSTART:20260403T200000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:adc82f23-82ab-4dc9-aafe-8cd4fbfbc3da@adc8.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-15
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Dizzy's Club\, 10 Columbus Cir\, New York\, NY 10019\, USA
-DTSTART:20260421T190000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:8cb58df2-d212-4d1d-86c7-dd42cbac9eed@8cb5.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-17
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:The Cedar\, 416 Cedar Ave\, Minneapolis\, MN 55454\, USA
-DTSTART:20260405T193000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:6b12c2b2-7366-4793-bacf-c9fd77c9139f@6b12.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-16
+UID:271460ce-b5b7-4e8e-b325-f6584d768f80@2714.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-14
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Dizzy's Club\, 10 Columbus Cir\, New York\, NY 10019\, USA
 DTSTART:20260421T210000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:d962d05c-e70c-4bd9-afc2-18391464dbb4@d962.org
+UID:467441c5-a4c0-4af9-b0d6-0d0a22491978@4674.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-18
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Kuumbwa Jazz Center\, 320-2 Cedar St\, Santa Cruz\, CA 95060\, USA
+DTSTART:20260402T190000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:93a27b71-3c09-4cb4-9ffc-ccef75b0ea1f@93a2.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-13
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Cunneen-Hackett Arts Center\, 9 Vassar St\, Poughkeepsie\, NY 12601\, USA
 DTSTART:20260411T200000Z
 SUMMARY:Jamaaladeen Tacuma & Mary Halvorson
-UID:bf8f96a5-a574-4de1-8d26-862573efbb4e@bf8f.org
+UID:526a605f-2710-4e54-968a-6f61db146959@526a.org
 URL:https://www.maryhalvorson.com/event-details/jamaaladeen-tacuma-mary-halvorson
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Freight & Salvage\, 2020 Addison St\, Berkeley\, CA 94704\, USA
-DTSTART:20260403T200000Z
+LOCATION:Dizzy's Club\, 10 Columbus Cir\, New York\, NY 10019\, USA
+DTSTART:20260421T190000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:97d9e728-426d-4c59-ae55-4ceb513eb204@97d9.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-14
+UID:c6f1b54d-4388-462a-b2ce-f7847377ea45@c6f1.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-17
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Getty Museum\, 1200 Getty Center Dr\, Los Angeles\, CA 90049\, USA
-DTSTART:20260331T190000Z
+LOCATION:Stop/ Time\, 119 E College St\, Iowa City\, IA 52240\, USA
+DTSTART:20260404T210000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:d9862825-a94d-491a-8b19-a4d20d281c3f@d986.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-12
+UID:17766328-49c5-41be-9b0b-dddfc626f642@1776.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-15
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:The Cedar\, 416 Cedar Ave\, Minneapolis\, MN 55454\, USA
+DTSTART:20260405T193000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:790ec87f-e832-48f7-8ce3-7634128d3da6@790e.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-16
 END:VEVENT
 END:VCALENDAR
