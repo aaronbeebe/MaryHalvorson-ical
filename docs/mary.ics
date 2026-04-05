@@ -3,42 +3,34 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Dizzy's Club\, 10 Columbus Cir\, New York\, NY 10019\, USA
-DTSTART:20260421T210000Z
+LOCATION:The Cedar\, 416 Cedar Ave\, Minneapolis\, MN 55454\, USA
+DTSTART:20260405T193000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:ae1ffd3b-69d1-4e18-88f2-0e6e890eaae3@ae1f.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-18
+UID:a70c6b43-cb4d-4677-a9ce-823d6180f9f9@a70c.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-16
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Dizzy's Club\, 10 Columbus Cir\, New York\, NY 10019\, USA
 DTSTART:20260421T190000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:25066ed5-6e64-4918-a763-26eb6aae813e@2506.org
+UID:e1181856-b3c2-4363-9297-0bb4a3248914@e118.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-17
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Stop/ Time\, 119 E College St\, Iowa City\, IA 52240\, USA
-DTSTART:20260404T210000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:df2acaee-0189-4f5a-bd43-77bbc7e9dd11@df2a.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-15
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Cunneen-Hackett Arts Center\, 9 Vassar St\, Poughkeepsie\, NY 12601\, USA
 DTSTART:20260411T200000Z
 SUMMARY:Jamaaladeen Tacuma & Mary Halvorson
-UID:7a20983f-ba3b-4d58-9fe4-ffb9787e03e0@7a20.org
+UID:bca02fec-39b0-4f82-a1e6-0662b629f0fb@bca0.org
 URL:https://www.maryhalvorson.com/event-details/jamaaladeen-tacuma-mary-halvorson
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:The Cedar\, 416 Cedar Ave\, Minneapolis\, MN 55454\, USA
-DTSTART:20260405T193000Z
+LOCATION:Dizzy's Club\, 10 Columbus Cir\, New York\, NY 10019\, USA
+DTSTART:20260421T210000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:ac3b88f5-bb33-47d8-91f1-f10275b76aeb@ac3b.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-16
+UID:03d305fc-7daa-4a3d-bf62-597ed7354554@03d3.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-18
 END:VEVENT
 END:VCALENDAR
