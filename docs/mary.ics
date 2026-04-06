@@ -3,18 +3,10 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:The Cedar\, 416 Cedar Ave\, Minneapolis\, MN 55454\, USA
-DTSTART:20260405T193000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:a70c6b43-cb4d-4677-a9ce-823d6180f9f9@a70c.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-16
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Dizzy's Club\, 10 Columbus Cir\, New York\, NY 10019\, USA
 DTSTART:20260421T190000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:e1181856-b3c2-4363-9297-0bb4a3248914@e118.org
+UID:9cf8adb9-ce2f-4378-8a13-94db6d823866@9cf8.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-17
 END:VEVENT
 BEGIN:VEVENT
@@ -22,7 +14,7 @@ DURATION:PT2H
 LOCATION:Cunneen-Hackett Arts Center\, 9 Vassar St\, Poughkeepsie\, NY 12601\, USA
 DTSTART:20260411T200000Z
 SUMMARY:Jamaaladeen Tacuma & Mary Halvorson
-UID:bca02fec-39b0-4f82-a1e6-0662b629f0fb@bca0.org
+UID:40bc274c-164c-469a-95a1-87b99f289fde@40bc.org
 URL:https://www.maryhalvorson.com/event-details/jamaaladeen-tacuma-mary-halvorson
 END:VEVENT
 BEGIN:VEVENT
@@ -30,7 +22,7 @@ DURATION:PT2H
 LOCATION:Dizzy's Club\, 10 Columbus Cir\, New York\, NY 10019\, USA
 DTSTART:20260421T210000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:03d305fc-7daa-4a3d-bf62-597ed7354554@03d3.org
+UID:447c6d97-83ea-4d78-9c18-592deef478b4@447c.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-18
 END:VEVENT
 END:VCALENDAR
