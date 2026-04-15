@@ -4,17 +4,17 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Dizzy's Club\, 10 Columbus Cir\, New York\, NY 10019\, USA
-DTSTART:20260421T190000Z
+DTSTART:20260421T210000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:8923f5e1-f210-4220-b6ff-9a40a3daf5af@8923.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-17
+UID:8d989901-500e-49b1-9176-862f636518c3@8d98.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-18
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Dizzy's Club\, 10 Columbus Cir\, New York\, NY 10019\, USA
-DTSTART:20260421T210000Z
+DTSTART:20260421T190000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:d1d7e97c-bf7e-450b-8976-d81965d18b9e@d1d7.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-18
+UID:a48382ab-9499-4526-afe2-93203ab55faa@a483.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-17
 END:VEVENT
 END:VCALENDAR
