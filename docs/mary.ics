@@ -3,66 +3,26 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Cafe OTO\, 18-22 Ashwin St\, London E8 3DL\, UK
-DTSTART:20260514T193000Z
+LOCATION:Teatro Olimpico di Vicenza\, Piazza Matteotti\, 11\, 36100 Vicenza VI\, Italy
+DTSTART:20260517T210000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:267a72e7-ddaa-4b3f-acf9-908f35d17a9a@267a.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-25
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:NOSPR - Chamber Hall\, plac Wojciecha Kilara 1\, 40-202 Katowice\, Poland
-DTSTART:20260512T193000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:95fde6aa-7e4e-498e-b106-be3e26273fde@95fd.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-23
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Jazzclub Unterfahrt\, Einsteinstraße 42\, 81675 München\, Germany
-DTSTART:20260516T203000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:dd040cb9-0b32-4cfa-83bb-231f8d1969af@dd04.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-27
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Jazz Cerkno\, Trg prekomorskih brigad 1\, 5282 Cerkno\, Slovenia
-DTSTART:20260523T210000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:49bc01d1-a867-4958-a367-7e85d87509b4@49bc.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-30
+UID:57e187d3-3998-49d5-913e-1593dfc1c322@57e1.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-28
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Cafe OTO\, 18-22 Ashwin St\, London E8 3DL\, UK
 DTSTART:20260513T193000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:770db35d-8edc-4b5f-9948-b918250dcb5c@770d.org
+UID:39a85bc8-c7a2-4b41-a9f0-6f02827855a5@39a8.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-24
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:National Concert Hall\, Earlsfort Terrace\, Saint Kevin's\, Dublin 2\, D02 N527\, Ireland
-DTSTART:20260515T203000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:3de9247b-aae9-46d4-84b4-048283f6a9c5@3de9.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-26
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Teatro Olimpico di Vicenza\, Piazza Matteotti\, 11\, 36100 Vicenza VI\, Italy
-DTSTART:20260517T210000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:89ecf861-e4b2-4467-b843-3c1b42a1f247@89ec.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-28
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Perronnord\, Rosenbergstrasse 48\, 9000 St. Gallen\, Switzerland
 DTSTART:20260510T200000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:6993f088-2ef7-413b-8b6b-6a3a6ea66554@6993.org
+UID:43aa04ae-9d12-4160-a0dc-e1ae4a193e99@43aa.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-22
 END:VEVENT
 BEGIN:VEVENT
@@ -70,23 +30,55 @@ DURATION:PT2H
 LOCATION:Recreios da Amadora\, Av. Santos Mattos 2\, 2700-748 Amadora\, Portugal
 DTSTART:20260508T200000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:ef1a4dd1-c924-4c95-8dab-2caa0ad5399d@ef1a.org
+UID:28aae4f2-5195-480f-8b2e-cac1f6c8308b@28aa.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-21
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Lithuanian National Drama Theater\, Gedimino pr. 4\, Vilnius\, 01103 Vilniaus m. sav.\, Lithuania
-DTSTART:20260522T180000Z
+LOCATION:Cafe OTO\, 18-22 Ashwin St\, London E8 3DL\, UK
+DTSTART:20260514T193000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:52f464b8-35ae-4a74-a653-5bd0e63d9673@52f4.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-29
+UID:119b49fd-6da8-4e77-8464-c8ede0b97689@119b.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-25
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Jazz Cerkno\, Trg prekomorskih brigad 1\, 5282 Cerkno\, Slovenia
+DTSTART:20260523T210000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:12c91764-35c9-4920-9e21-fc5ce0b65da2@12c9.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-30
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:NOSPR - Chamber Hall\, plac Wojciecha Kilara 1\, 40-202 Katowice\, Poland
+DTSTART:20260512T193000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:41e3ba96-782f-4680-9c82-13043dd56d9e@41e3.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-23
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Jazzclub Unterfahrt\, Einsteinstraße 42\, 81675 München\, Germany
+DTSTART:20260516T203000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:f0b66110-72bf-46b0-a558-6ba91725d48e@f0b6.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-27
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:PonavaFest\, Lužánky Park\, Pionýrská\, 602 00 Brno-střed\, Czechia
 DTSTART:20260524T210000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:2d5b2440-7f3a-4228-bb51-7f5d21df9bce@2d5b.org
+UID:c81a7c44-978c-4e4f-a6b5-5ac3572289ed@c81a.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-31
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:National Concert Hall\, Earlsfort Terrace\, Saint Kevin's\, Dublin 2\, D02 N527\, Ireland
+DTSTART:20260515T203000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:769aaf29-f87d-4fcb-ad5a-74717800f5c6@769a.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-26
 END:VEVENT
 END:VCALENDAR
