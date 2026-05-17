@@ -3,26 +3,34 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Jazzclub Unterfahrt\, Einsteinstraße 42\, 81675 München\, Germany
-DTSTART:20260516T203000Z
+LOCATION:Teatro Olimpico di Vicenza\, Piazza Matteotti\, 11\, 36100 Vicenza VI\, Italy
+DTSTART:20260517T210000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:f43ba5d6-0257-4c11-9a5d-72c0db19ae62@f43b.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-27
+UID:f12cae20-e572-4bbd-bd13-1ce67d407721@f12c.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-28
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Jazz Cerkno\, Trg prekomorskih brigad 1\, 5282 Cerkno\, Slovenia
+DTSTART:20260523T210000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:238b3de9-e170-4e2b-857d-1a7c94bd952a@238b.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-30
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:PonavaFest\, Lužánky Park\, Pionýrská\, 602 00 Brno-střed\, Czechia
 DTSTART:20260524T210000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:8bcd956b-7f8d-4520-8f57-6939c7ddd43b@8bcd.org
+UID:37e9d808-d9b0-4949-be9e-0342ce71a517@37e9.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-31
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Teatro Olimpico di Vicenza\, Piazza Matteotti\, 11\, 36100 Vicenza VI\, Italy
-DTSTART:20260517T210000Z
+LOCATION:Lithuanian National Drama Theater\, Gedimino pr. 4\, Vilnius\, 01103 Vilniaus m. sav.\, Lithuania
+DTSTART:20260522T180000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:b523189c-df83-4044-b5bc-4447c1ee9e59@b523.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-28
+UID:4175dca7-bc3c-4272-b85f-d051bdf59e55@4175.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-29
 END:VEVENT
 END:VCALENDAR
