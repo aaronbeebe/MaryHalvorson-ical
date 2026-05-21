@@ -3,26 +3,26 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Lithuanian National Drama Theater\, Gedimino pr. 4\, Vilnius\, 01103 Vilniaus m. sav.\, Lithuania
-DTSTART:20260522T180000Z
+LOCATION:Jazz Cerkno\, Trg prekomorskih brigad 1\, 5282 Cerkno\, Slovenia
+DTSTART:20260523T210000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:26c3dc6b-e9aa-4142-b775-1d4b76c9bf2a@26c3.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-29
+UID:1ff437e4-317e-4820-acd3-5c17a311d4c3@1ff4.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-30
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:PonavaFest\, Lužánky Park\, Pionýrská\, 602 00 Brno-střed\, Czechia
 DTSTART:20260524T210000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:572ef081-b745-44f1-9264-1a8dc2f4dac8@572e.org
+UID:54287402-8658-4290-bca1-219963953e31@5428.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-31
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Jazz Cerkno\, Trg prekomorskih brigad 1\, 5282 Cerkno\, Slovenia
-DTSTART:20260523T210000Z
+LOCATION:Lithuanian National Drama Theater\, Gedimino pr. 4\, Vilnius\, 01103 Vilniaus m. sav.\, Lithuania
+DTSTART:20260522T180000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:83c35b99-2a16-4ab9-9cef-00108597b991@83c3.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-30
+UID:3d70d5d9-b22a-4f94-b11e-8e2e5fffc462@3d70.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-29
 END:VEVENT
 END:VCALENDAR
