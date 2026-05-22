@@ -3,18 +3,10 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Jazz Cerkno\, Trg prekomorskih brigad 1\, 5282 Cerkno\, Slovenia
-DTSTART:20260523T210000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:1ff437e4-317e-4820-acd3-5c17a311d4c3@1ff4.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-30
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:PonavaFest\, Lužánky Park\, Pionýrská\, 602 00 Brno-střed\, Czechia
 DTSTART:20260524T210000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:54287402-8658-4290-bca1-219963953e31@5428.org
+UID:447594c0-ba41-4d49-9463-3d4140deb6fb@4475.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-31
 END:VEVENT
 BEGIN:VEVENT
@@ -22,7 +14,15 @@ DURATION:PT2H
 LOCATION:Lithuanian National Drama Theater\, Gedimino pr. 4\, Vilnius\, 01103 Vilniaus m. sav.\, Lithuania
 DTSTART:20260522T180000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:3d70d5d9-b22a-4f94-b11e-8e2e5fffc462@3d70.org
+UID:2685dd8a-2a88-47e8-b85b-351917c5a3e7@2685.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-29
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Jazz Cerkno\, Trg prekomorskih brigad 1\, 5282 Cerkno\, Slovenia
+DTSTART:20260523T210000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:501208d6-4df0-4891-9a01-dc40ad2badb0@5012.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-30
 END:VEVENT
 END:VCALENDAR
