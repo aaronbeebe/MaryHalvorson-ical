@@ -3,10 +3,18 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:PonavaFest\, Lužánky Park\, Pionýrská\, 602 00 Brno-střed\, Czechia
-DTSTART:20260524T210000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:e40a6962-6144-440c-b8f2-572d0a11ed54@e40a.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-31
+LOCATION:Ottawa Jazz Festival\, 1 Elgin St\, Ottawa\, ON K1P 5W1\, Canada
+DTSTART:20260627T190000Z
+SUMMARY:Myra Melford's Fire & Water Quintet
+UID:7f536249-8158-415c-94b6-7ddce612156c@7f53.org
+URL:https://www.maryhalvorson.com/event-details/myra-melfords-fire-water-quintet-22
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:FringeArts\, 140 N Christopher Columbus Blvd\, Philadelphia\, PA 19106\, USA
+DTSTART:20260612T190000Z
+SUMMARY:John Coltrane en Motion: Mother of George (film and music)
+UID:15e81744-b177-4b35-b3d7-7d3e906b2c1a@15e8.org
+URL:https://www.maryhalvorson.com/event-details/john-coltrane-en-motion-mother-of-george-film-and-music
 END:VEVENT
 END:VCALENDAR
