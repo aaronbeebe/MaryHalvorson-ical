@@ -6,15 +6,7 @@ DURATION:PT2H
 LOCATION:Ottawa Jazz Festival\, 1 Elgin St\, Ottawa\, ON K1P 5W1\, Canada
 DTSTART:20260627T190000Z
 SUMMARY:Myra Melford's Fire & Water Quintet
-UID:1a9817c5-d4e4-42af-acac-bc53374c1bf7@1a98.org
+UID:f19adc39-b394-4771-bef8-0332c7aa285f@f19a.org
 URL:https://www.maryhalvorson.com/event-details/myra-melfords-fire-water-quintet-22
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:FringeArts\, 140 N Christopher Columbus Blvd\, Philadelphia\, PA 19106\, USA
-DTSTART:20260612T190000Z
-SUMMARY:John Coltrane en Motion: Mother of George (film and music)
-UID:07409211-ac64-49de-aab0-3d3d28104979@0740.org
-URL:https://www.maryhalvorson.com/event-details/john-coltrane-en-motion-mother-of-george-film-and-music
 END:VEVENT
 END:VCALENDAR
