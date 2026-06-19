@@ -3,66 +3,66 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Pickathon Festival\, 16581 SE Hagen Rd\, Happy Valley\, OR 97086\, USA
-DTSTART:20260731T190000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:2e548147-b48f-425e-8db9-23e7d970d3da@2e54.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-32
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Pickathon\, 16581 SE Hagen Rd\, Happy Valley\, OR 97086\, USA
-DTSTART:20260802T170000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:c8fe3f43-913d-4d24-baf7-ba9daab31eea@c8fe.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-33
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Argyle Winery\, 691 OR-99W\, Dundee\, OR 97115\, USA
 DTSTART:20260801T193000Z
 SUMMARY:Mary Halvorson & Tomas Fujiwara
-UID:b84b8eab-ad71-4867-852a-f3a540b1a106@b84b.org
+UID:c157ee43-d468-4a32-be2f-98e2911d46bb@c157.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-tomas-fujiwara-9
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
-DTSTART:20260830T193000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:ba0a16a9-476b-4910-8def-863894f97896@ba0a.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-54
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
 DTSTART:20260831T203000Z
 SUMMARY:Mary Halvorson: Amaryllis
-UID:e0ab54d5-6e90-4da0-b199-1afe5b8a40cc@e0ab.org
+UID:eed817e0-9129-4912-834d-2e83a0678ada@eed8.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-56
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
-DTSTART:20260831T180000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:56aa7aea-ba58-4693-855c-11023c6b2c37@56aa.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-55
+LOCATION:Pickathon\, 16581 SE Hagen Rd\, Happy Valley\, OR 97086\, USA
+DTSTART:20260802T170000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:59d3edc2-cdc7-4180-bdb3-d32113ba0069@59d3.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-33
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Ottawa Jazz Festival\, 1 Elgin St\, Ottawa\, ON K1P 5W1\, Canada
 DTSTART:20260627T190000Z
 SUMMARY:Myra Melford's Fire & Water Quintet
-UID:e45440d7-0c8e-452d-b1b5-1a52315c3a25@e454.org
+UID:08187a87-f246-4275-86d6-30606a6033f9@0818.org
 URL:https://www.maryhalvorson.com/event-details/myra-melfords-fire-water-quintet-22
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
+DTSTART:20260830T193000Z
+SUMMARY:Mary Halvorson: Amaryllis
+UID:4dbbae00-92a9-4663-b29f-1b364ab7c692@4dbb.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-54
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
 DTSTART:20260830T163000Z
 SUMMARY:Mary Halvorson: Amaryllis
-UID:fe0e532f-b099-43a0-a0a1-e1057e58777b@fe0e.org
+UID:2d891502-8db1-40b8-8294-26fec878a242@2d89.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-53
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Pickathon Festival\, 16581 SE Hagen Rd\, Happy Valley\, OR 97086\, USA
+DTSTART:20260731T190000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:f3895f42-1623-4ea7-9959-f09d2c9fa5da@f389.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-32
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
+DTSTART:20260831T180000Z
+SUMMARY:Mary Halvorson: Amaryllis
+UID:9e1fd670-53c8-4531-bd95-25689348e1e6@9e1f.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-55
 END:VEVENT
 END:VCALENDAR
