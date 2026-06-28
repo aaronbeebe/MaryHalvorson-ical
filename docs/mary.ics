@@ -3,130 +3,122 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Lublin Jazz Festival\, Peowiaków 12\, 20-007 Lublin\, Poland
-DTSTART:20260718T210000Z
+LOCATION:Jazzclub Unterfahrt\, Einsteinstraße 42\, 81675 München-Au-Haidhausen\, Germany
+DTSTART:20260715T203000Z
 SUMMARY:Tomeka Reid Quartet
-UID:f6e2d907-7b99-4fb2-a1de-5e8b87f73560@f6e2.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-59
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Ottawa Jazz Festival\, 1 Elgin St\, Ottawa\, ON K1P 5W1\, Canada
-DTSTART:20260627T190000Z
-SUMMARY:Myra Melford's Fire & Water Quintet
-UID:e6a259d7-5427-4b4d-8c62-2eab357b4a51@e6a2.org
-URL:https://www.maryhalvorson.com/event-details/myra-melfords-fire-water-quintet-22
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
-DTSTART:20260830T193000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:3c073c4f-616a-48a9-8553-ca2d4567f9ef@3c07.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-54
+UID:2a886d82-4d8a-4e47-bbba-b2133f88ba7a@2a88.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-57
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Club Porgy & Bess\, Riemergasse 11\, 1010 Wien\, Austria
 DTSTART:20260711T203000Z
 SUMMARY:Tomeka Reid Quartet
-UID:bcd43188-d123-414d-9d36-25abbfc45a93@bcd4.org
+UID:002645fc-7745-475c-8895-417cb2535f2d@0026.org
 URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-55
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
-DTSTART:20260831T203000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:4043433f-2058-4d2c-b63f-56f6a2c8698d@4043.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-56
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Pickathon\, 16581 SE Hagen Rd\, Happy Valley\, OR 97086\, USA
-DTSTART:20260802T170000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:eb23ad79-1904-4ed0-ba3e-5f4a0f0ff383@eb23.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-33
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
 DTSTART:20260830T163000Z
 SUMMARY:Mary Halvorson: Amaryllis
-UID:bb31b610-8ac0-4962-ad56-1870c5f3cbcd@bb31.org
+UID:05723960-0891-4c25-987c-29203803f71f@0572.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-53
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Pickathon Festival\, 16581 SE Hagen Rd\, Happy Valley\, OR 97086\, USA
-DTSTART:20260731T190000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:95f64a3d-9a01-4811-ba92-9e274412f243@95f6.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-32
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Jazzclub Unterfahrt\, Einsteinstraße 42\, 81675 München-Au-Haidhausen\, Germany
-DTSTART:20260715T203000Z
-SUMMARY:Tomeka Reid Quartet
-UID:76189df8-b116-4ee1-9487-b5733bc0f787@7618.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-57
+LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
+DTSTART:20260831T203000Z
+SUMMARY:Mary Halvorson: Amaryllis
+UID:ee519f8a-0259-4614-9c5d-d07a132e6bdc@ee51.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-56
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
-DTSTART:20260831T180000Z
+DTSTART:20260830T193000Z
 SUMMARY:Mary Halvorson: Amaryllis
-UID:c6629e16-a0f3-4e8c-90c1-4b96a6e7dd4e@c662.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-55
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Pori Jazz Festival\, Hallituskatu 9a\, 28100 Pori\, Finland
-DTSTART:20260717T163000Z
-SUMMARY:Tomeka Reid Quartet
-UID:22b33481-0bca-4623-a0c2-d12b1455a4a8@22b3.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-58
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Argyle Winery\, 691 OR-99W\, Dundee\, OR 97115\, USA
-DTSTART:20260801T193000Z
-SUMMARY:Mary Halvorson & Tomas Fujiwara
-UID:28e11995-c884-4e37-adaa-8308db46c861@28e1.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-tomas-fujiwara-9
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Jazz em Agosto\, Av. de Berna 45A\, 1067-001 Lisboa\, Portugal
-DTSTART:20260807T213000Z
-SUMMARY:Ches Smith: Clone Row
-UID:a8f0a881-ddd5-468b-aab7-cafceda8e130@a8f0.org
-URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-40
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Cafe OTO\, 18-22 Ashwin St\, London E8 3DL\, UK
-DTSTART:20260713T193000Z
-SUMMARY:Tomeka Reid Quartet
-UID:3feaa4ec-6988-44f6-9d71-c60b46185a87@3fea.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-56
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Jazz Festival Saalfelden\, Mittergasse 21a\, 5760 Saalfelden am Steinernen Meer\, Austria
-DTSTART:20260823T164500Z
-SUMMARY:Jacob Garchik: Ye Olde
-UID:eaf5dd0f-70b2-4a49-b75a-bfb37c2d880a@eaf5.org
-URL:https://www.maryhalvorson.com/event-details/jacob-garchik-ye-olde-1
+UID:45b26eb0-39bf-498c-8573-8b9ef52912c1@45b2.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-54
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:North Sea Jazz Festival\, Ahoyweg 10\, 3084 BA Rotterdam\, Netherlands
 DTSTART:20260710T161500Z
 SUMMARY:Tomeka Reid Quartet
-UID:b73871e3-de2d-47b8-a6ad-7248cf03a997@b738.org
+UID:9da4d5b0-6f3f-4e6d-9531-7b75099010c5@9da4.org
 URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-54
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Pickathon Festival\, 16581 SE Hagen Rd\, Happy Valley\, OR 97086\, USA
+DTSTART:20260731T190000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:6da9c38a-65f7-4c49-9437-d835d42f775c@6da9.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-32
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Cafe OTO\, 18-22 Ashwin St\, London E8 3DL\, UK
+DTSTART:20260713T193000Z
+SUMMARY:Tomeka Reid Quartet
+UID:64b5782d-e2a1-4d83-a1d6-963859f28e9c@64b5.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-56
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
+DTSTART:20260831T180000Z
+SUMMARY:Mary Halvorson: Amaryllis
+UID:32e44688-f4f4-48cd-aef2-fb78abdbe93f@32e4.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-55
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Lublin Jazz Festival\, Peowiaków 12\, 20-007 Lublin\, Poland
+DTSTART:20260718T210000Z
+SUMMARY:Tomeka Reid Quartet
+UID:3396af37-d17b-4cf0-96ec-f18e77be3278@3396.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-59
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Pickathon\, 16581 SE Hagen Rd\, Happy Valley\, OR 97086\, USA
+DTSTART:20260802T170000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:7019e965-021c-49dc-b3fa-826c43eaaf61@7019.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-33
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Jazz em Agosto\, Av. de Berna 45A\, 1067-001 Lisboa\, Portugal
+DTSTART:20260807T213000Z
+SUMMARY:Ches Smith: Clone Row
+UID:2ef52311-1fb1-40d8-bdac-1e94fb26770c@2ef5.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-40
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Pori Jazz Festival\, Hallituskatu 9a\, 28100 Pori\, Finland
+DTSTART:20260717T163000Z
+SUMMARY:Tomeka Reid Quartet
+UID:b72f7f36-648b-4d3e-a0fa-d6897e058108@b72f.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-58
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Jazz Festival Saalfelden\, Mittergasse 21a\, 5760 Saalfelden am Steinernen Meer\, Austria
+DTSTART:20260823T164500Z
+SUMMARY:Jacob Garchik: Ye Olde
+UID:c3bfdbc8-dc5d-4dec-a95b-15bd3f3c181c@c3bf.org
+URL:https://www.maryhalvorson.com/event-details/jacob-garchik-ye-olde-1
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Argyle Winery\, 691 OR-99W\, Dundee\, OR 97115\, USA
+DTSTART:20260801T193000Z
+SUMMARY:Mary Halvorson & Tomas Fujiwara
+UID:0eb07bb5-d4ad-45eb-b31f-e2d8cc54b553@0eb0.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-tomas-fujiwara-9
 END:VEVENT
 END:VCALENDAR
