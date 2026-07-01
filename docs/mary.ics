@@ -3,106 +3,42 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Jazzclub Unterfahrt\, Einsteinstraße 42\, 81675 München-Au-Haidhausen\, Germany
+DTSTART:20260715T203000Z
+SUMMARY:Tomeka Reid Quartet
+UID:0b99ec93-881b-4cf4-9f73-8eb836749eea@0b99.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-57
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Jazz em Agosto\, Av. de Berna 45A\, 1067-001 Lisboa\, Portugal
 DTSTART:20260807T213000Z
 SUMMARY:Ches Smith: Clone Row
-UID:bd9a4199-50fd-49c7-b2cd-d67568ec52be@bd9a.org
+UID:0f50d364-df99-4385-a83a-ac36ce6e608a@0f50.org
 URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-40
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Club Porgy & Bess\, Riemergasse 11\, 1010 Wien\, Austria
+DTSTART:20260711T203000Z
+SUMMARY:Tomeka Reid Quartet
+UID:94833abe-3bc5-4004-854d-e8c3b9fc7bf4@9483.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-55
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Pori Jazz Festival\, Hallituskatu 9a\, 28100 Pori\, Finland
 DTSTART:20260717T163000Z
 SUMMARY:Tomeka Reid Quartet
-UID:d8906fb5-f207-4604-8e02-02f23f8302fd@d890.org
+UID:1d0f8eb2-837d-49b3-a1ec-d17e869fcef8@1d0f.org
 URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-58
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Jazzclub Unterfahrt\, Einsteinstraße 42\, 81675 München-Au-Haidhausen\, Germany
-DTSTART:20260715T203000Z
-SUMMARY:Tomeka Reid Quartet
-UID:1665bb98-340b-46de-94da-2c31381cb56f@1665.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-57
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
-DTSTART:20260831T203000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:a9d1ad41-cf4c-40ad-a606-d00bf3f4752d@a9d1.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-56
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
-DTSTART:20260830T163000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:a9acc785-fb34-4d75-a2f2-25f3547df468@a9ac.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-53
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
-DTSTART:20260830T193000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:d0511d04-a7b7-4208-b5be-e431213829c5@d051.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-54
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Argyle Winery\, 691 OR-99W\, Dundee\, OR 97115\, USA
-DTSTART:20260801T193000Z
-SUMMARY:Mary Halvorson & Tomas Fujiwara
-UID:8f376a97-aa56-4419-ba82-5fceecd289f6@8f37.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-tomas-fujiwara-9
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Jazz Festival Saalfelden\, Mittergasse 21a\, 5760 Saalfelden am Steinernen Meer\, Austria
-DTSTART:20260823T164500Z
-SUMMARY:Jacob Garchik: Ye Olde
-UID:f95ebeee-d650-4581-ad17-527baa883374@f95e.org
-URL:https://www.maryhalvorson.com/event-details/jacob-garchik-ye-olde-1
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Lublin Jazz Festival\, Peowiaków 12\, 20-007 Lublin\, Poland
-DTSTART:20260718T210000Z
-SUMMARY:Tomeka Reid Quartet
-UID:624893e0-2350-4d4a-9997-1a529500a722@6248.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-59
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Pickathon Festival\, 16581 SE Hagen Rd\, Happy Valley\, OR 97086\, USA
-DTSTART:20260731T190000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:878cd8f2-51ad-4d18-96d9-01c7894474a1@878c.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-32
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Cafe OTO\, 18-22 Ashwin St\, London E8 3DL\, UK
-DTSTART:20260713T193000Z
-SUMMARY:Tomeka Reid Quartet
-UID:4611a398-7c3b-49bf-a77a-fc01d13c83b3@4611.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-56
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Pickathon\, 16581 SE Hagen Rd\, Happy Valley\, OR 97086\, USA
-DTSTART:20260802T170000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:33c32add-2574-4966-8ee7-fe62f6dda395@33c3.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-33
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
 DTSTART:20260831T180000Z
 SUMMARY:Mary Halvorson: Amaryllis
-UID:933a77a8-1d9b-4f63-b70f-f277ee0295bd@933a.org
+UID:4b3b8527-e52c-42ec-89d4-e65d7f248d0a@4b3b.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-55
 END:VEVENT
 BEGIN:VEVENT
@@ -110,15 +46,79 @@ DURATION:PT2H
 LOCATION:North Sea Jazz Festival\, Ahoyweg 10\, 3084 BA Rotterdam\, Netherlands
 DTSTART:20260710T161500Z
 SUMMARY:Tomeka Reid Quartet
-UID:ce6b25d3-8dc0-4df0-a3de-fa72be1d119e@ce6b.org
+UID:f5ac1ce6-e262-4790-b2e0-569e2ff43c93@f5ac.org
 URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-54
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Club Porgy & Bess\, Riemergasse 11\, 1010 Wien\, Austria
-DTSTART:20260711T203000Z
+LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
+DTSTART:20260830T163000Z
+SUMMARY:Mary Halvorson: Amaryllis
+UID:cc1cd3f1-54e1-4ef0-ae29-a25c3751122b@cc1c.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-53
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Argyle Winery\, 691 OR-99W\, Dundee\, OR 97115\, USA
+DTSTART:20260801T193000Z
+SUMMARY:Mary Halvorson & Tomas Fujiwara
+UID:2eb88d52-7552-4761-810d-00939a954c8a@2eb8.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-tomas-fujiwara-9
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Lublin Jazz Festival\, Peowiaków 12\, 20-007 Lublin\, Poland
+DTSTART:20260718T210000Z
 SUMMARY:Tomeka Reid Quartet
-UID:4e090bbf-4c97-4c44-8742-ff35616c6a37@4e09.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-55
+UID:45546c51-24b9-4c7b-8791-19c1ae9a4645@4554.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-59
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Pickathon\, 16581 SE Hagen Rd\, Happy Valley\, OR 97086\, USA
+DTSTART:20260802T170000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:e48b2a78-d39f-4d70-9e50-521fbefb9596@e48b.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-33
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
+DTSTART:20260830T193000Z
+SUMMARY:Mary Halvorson: Amaryllis
+UID:39b03304-e8bd-4794-a839-da1f8b531fa8@39b0.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-54
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
+DTSTART:20260831T203000Z
+SUMMARY:Mary Halvorson: Amaryllis
+UID:08eab97e-6009-477d-aa9a-5cd56365ce94@08ea.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-56
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Cafe OTO\, 18-22 Ashwin St\, London E8 3DL\, UK
+DTSTART:20260713T193000Z
+SUMMARY:Tomeka Reid Quartet
+UID:5881ef3f-51a6-4f7e-ba92-4d751eb3bc7a@5881.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-56
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Pickathon Festival\, 16581 SE Hagen Rd\, Happy Valley\, OR 97086\, USA
+DTSTART:20260731T190000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:9d4d7825-7972-4f0e-8c05-a6deda87266d@9d4d.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-32
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Jazz Festival Saalfelden\, Mittergasse 21a\, 5760 Saalfelden am Steinernen Meer\, Austria
+DTSTART:20260823T164500Z
+SUMMARY:Jacob Garchik: Ye Olde
+UID:0b5fccf5-fe11-43c4-b1b3-210cff526a38@0b5f.org
+URL:https://www.maryhalvorson.com/event-details/jacob-garchik-ye-olde-1
 END:VEVENT
 END:VCALENDAR
