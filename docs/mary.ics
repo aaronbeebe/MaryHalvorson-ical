@@ -6,23 +6,39 @@ DURATION:PT2H
 LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
 DTSTART:20260830T193000Z
 SUMMARY:Mary Halvorson: Amaryllis
-UID:ea2036cd-1158-4f0e-b395-c3b23703ec47@ea20.org
+UID:1a9d250a-864d-44bc-bf26-ba0e24417d3c@1a9d.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-54
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Jazz em Agosto\, Av. de Berna 45A\, 1067-001 Lisboa\, Portugal
+DTSTART:20260807T213000Z
+SUMMARY:Ches Smith: Clone Row
+UID:27e26b3d-e89f-4a06-aae0-01a2d1c991af@27e2.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-40
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
 DTSTART:20260831T203000Z
 SUMMARY:Mary Halvorson: Amaryllis
-UID:b9a254cd-9d84-48f8-a6a0-79821ab95b9e@b9a2.org
+UID:bfefa893-3374-4bde-bf83-9b35d8c18c85@bfef.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-56
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
+DTSTART:20260831T180000Z
+SUMMARY:Mary Halvorson: Amaryllis
+UID:c3a1fc7f-552f-421c-afb6-16b74486e3f0@c3a1.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-55
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Jazz Festival Saalfelden\, Mittergasse 21a\, 5760 Saalfelden am Steinernen Meer\, Austria
 DTSTART:20260823T164500Z
 SUMMARY:Jacob Garchik: Ye Olde
-UID:e89abf6c-1321-4ac9-b776-e4a9650dfc7a@e89a.org
+UID:f4e10bee-73b3-44ae-b9f0-5ad0b4da91b6@f4e1.org
 URL:https://www.maryhalvorson.com/event-details/jacob-garchik-ye-olde-1
 END:VEVENT
 BEGIN:VEVENT
@@ -30,23 +46,7 @@ DURATION:PT2H
 LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
 DTSTART:20260830T163000Z
 SUMMARY:Mary Halvorson: Amaryllis
-UID:5abba3c7-a665-4bae-a089-3e03463cc86c@5abb.org
+UID:84ca9eb3-8d1b-49bf-aa63-9389990782f0@84ca.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-53
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Jazz em Agosto\, Av. de Berna 45A\, 1067-001 Lisboa\, Portugal
-DTSTART:20260807T213000Z
-SUMMARY:Ches Smith: Clone Row
-UID:82120640-8ebd-47c2-a91e-c7a168e1e14c@8212.org
-URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-40
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
-DTSTART:20260831T180000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:f56925a5-6199-461a-a43a-7cfcd3803ae3@f569.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-55
 END:VEVENT
 END:VCALENDAR
