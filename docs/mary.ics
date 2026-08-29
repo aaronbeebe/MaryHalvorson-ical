@@ -4,33 +4,33 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
-DTSTART:20260831T203000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:f59f66d5-3705-4c27-847b-e61ab11aad88@f59f.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-56
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
-DTSTART:20260830T193000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:e0588997-4534-4380-9b6e-667da7ad55b8@e058.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-54
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
 DTSTART:20260830T163000Z
 SUMMARY:Mary Halvorson: Amaryllis
-UID:1312cf04-4018-44e1-b0be-1ea9d42b453d@1312.org
+UID:cde7813f-744d-4bb7-a378-8d59df036901@cde7.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-53
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
+DTSTART:20260831T203000Z
+SUMMARY:Mary Halvorson: Amaryllis
+UID:fa54c86b-5841-412c-a480-b4656c58c43b@fa54.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-56
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
 DTSTART:20260831T180000Z
 SUMMARY:Mary Halvorson: Amaryllis
-UID:f69f429e-475f-4768-9ce6-159878ef1c1e@f69f.org
+UID:605da021-fc69-4ccf-bcbd-7a2fd5e8efef@605d.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-55
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
+DTSTART:20260830T193000Z
+SUMMARY:Mary Halvorson: Amaryllis
+UID:82a6d4cc-8358-4c97-85b4-0e8378676fe8@82a6.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-54
 END:VEVENT
 END:VCALENDAR
