@@ -4,17 +4,9 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
-DTSTART:20260830T163000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:cde7813f-744d-4bb7-a378-8d59df036901@cde7.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-53
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
 DTSTART:20260831T203000Z
 SUMMARY:Mary Halvorson: Amaryllis
-UID:fa54c86b-5841-412c-a480-b4656c58c43b@fa54.org
+UID:f8f19ad1-0cff-4ed7-a95e-fbffc16f1d66@f8f1.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-56
 END:VEVENT
 BEGIN:VEVENT
@@ -22,15 +14,23 @@ DURATION:PT2H
 LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
 DTSTART:20260831T180000Z
 SUMMARY:Mary Halvorson: Amaryllis
-UID:605da021-fc69-4ccf-bcbd-7a2fd5e8efef@605d.org
+UID:5cab3213-960f-4897-8ff1-f2025aae46a7@5cab.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-55
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
+DTSTART:20260830T163000Z
+SUMMARY:Mary Halvorson: Amaryllis
+UID:a2f6f9dc-c72e-4ff0-8238-0377e5201cb4@a2f6.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-53
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
 DTSTART:20260830T193000Z
 SUMMARY:Mary Halvorson: Amaryllis
-UID:82a6d4cc-8358-4c97-85b4-0e8378676fe8@82a6.org
+UID:b8257b94-21ee-4951-8481-013680492ac3@b825.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-54
 END:VEVENT
 END:VCALENDAR
