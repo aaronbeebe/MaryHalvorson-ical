@@ -3,18 +3,66 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
-DTSTART:20260831T203000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:28269b18-5b3a-43c9-bd39-d65f1f0f42d6@2826.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-56
+LOCATION:White Plains Jazz Festival\, 31 Mamaroneck Ave\, White Plains\, NY 10601\, USA
+DTSTART:20260926T150000Z
+SUMMARY:Sylvie Courvoisier & Mary Halvorson
+UID:ae30fe2b-e2d3-4b4f-88f5-52b2c166f08e@ae30.org
+URL:https://www.maryhalvorson.com/event-details/sylvie-courvoisier-mary-halvorson-25
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Blue Note Tokyo\, 6-chōme-3-16 Minamiaoyama\, Minato City\, Tokyo 107-0062\, Japan
-DTSTART:20260831T180000Z
-SUMMARY:Mary Halvorson: Amaryllis
-UID:63d524db-ee50-47d5-940d-663872682a91@63d5.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-amaryllis-55
+LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
+DTSTART:20260917T210000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:8e284538-f5bd-4a83-9011-5be6185fb757@8e28.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-35
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
+DTSTART:20260918T200000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:7ddc7011-9e84-4c44-b902-2c8b14af423e@7ddc.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-36
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:New Mexico Jazz Festival\, 210 Yale Blvd SE\, Albuquerque\, NM 87106\, USA
+DTSTART:20260928T193000Z
+SUMMARY:Sylvie Courvoisier & Mary Halvorson
+UID:d3a0d5e6-1cf3-4b83-a776-20812f48cac4@d3a0.org
+URL:https://www.maryhalvorson.com/event-details/sylvie-courvoisier-mary-halvorson-26
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Sound & Gravity Festival @ Hungry Brain\, 2319 W Belmont Ave\, Chicago\, IL 60618\, USA
+DTSTART:20260906T201500Z
+SUMMARY:Sylvie Courvoisier & Mary Halvorson
+UID:4b487dd6-52c4-471d-a6b5-7a861177be27@4b48.org
+URL:https://www.maryhalvorson.com/event-details/sylvie-courvoisier-mary-halvorson-24
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
+DTSTART:20260918T220000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:edb3bf37-10fb-416b-a061-c575fe87a8a0@edb3.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-37
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
+DTSTART:20260917T193000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:7868e2cb-1958-4d4b-aa66-e3c7317dd145@7868.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-34
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Sound & Gravity Festival @Judson & Moore\, 3057 N Rockwell St Bldg 5\, Chicago\, IL 60618\, USA
+DTSTART:20260905T204500Z
+SUMMARY:Tomeka Reid Quartet
+UID:689591e5-e16e-4158-9e3d-02015b752d8a@6895.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-60
 END:VEVENT
 END:VCALENDAR
