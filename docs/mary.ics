@@ -3,58 +3,50 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
-DTSTART:20260918T200000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:5f5d0caf-7c30-4731-8c94-0f64213bfeee@5f5d.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-36
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:New Mexico Jazz Festival\, 210 Yale Blvd SE\, Albuquerque\, NM 87106\, USA
 DTSTART:20260928T193000Z
 SUMMARY:Sylvie Courvoisier & Mary Halvorson
-UID:af8c39c6-e190-4ad7-b626-5b0d4b04d904@af8c.org
+UID:c07b0fa1-8d3d-4142-8013-d2d75ea15e5b@c07b.org
 URL:https://www.maryhalvorson.com/event-details/sylvie-courvoisier-mary-halvorson-26
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
-DTSTART:20260917T193000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:63b40042-c97c-46e9-8d4d-d5c02dd893ee@63b4.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-34
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Sound & Gravity Festival @ Hungry Brain\, 2319 W Belmont Ave\, Chicago\, IL 60618\, USA
-DTSTART:20260906T201500Z
-SUMMARY:Sylvie Courvoisier & Mary Halvorson
-UID:982d042a-e4a5-4cc6-9cd5-8ece8bca9f57@982d.org
-URL:https://www.maryhalvorson.com/event-details/sylvie-courvoisier-mary-halvorson-24
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:White Plains Jazz Festival\, 31 Mamaroneck Ave\, White Plains\, NY 10601\, USA
-DTSTART:20260926T150000Z
-SUMMARY:Sylvie Courvoisier & Mary Halvorson
-UID:b805d1b5-7dc6-494b-88a7-98d97b0f6f94@b805.org
-URL:https://www.maryhalvorson.com/event-details/sylvie-courvoisier-mary-halvorson-25
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
 DTSTART:20260917T210000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:7955bb36-1a2d-4bfb-a458-39b5d5240bf9@7955.org
+UID:313af3dd-7fa9-43cd-914c-d90104ae287d@313a.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-35
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
+DTSTART:20260917T193000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:f670edb7-de26-4fd2-8128-ab12b87c899e@f670.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-34
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
 DTSTART:20260918T220000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:9a9dad14-c52d-490a-bd31-11b6fa68f634@9a9d.org
+UID:4c8dd612-7c3b-4003-a565-53db5c3e371f@4c8d.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-37
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
+DTSTART:20260918T200000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:d8e98675-c8d1-48bb-a5d1-fae1d83877b5@d8e9.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-36
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:White Plains Jazz Festival\, 31 Mamaroneck Ave\, White Plains\, NY 10601\, USA
+DTSTART:20260926T150000Z
+SUMMARY:Sylvie Courvoisier & Mary Halvorson
+UID:0924778b-cb54-4e33-a2bd-89117d19edab@0924.org
+URL:https://www.maryhalvorson.com/event-details/sylvie-courvoisier-mary-halvorson-25
 END:VEVENT
 END:VCALENDAR
