@@ -3,34 +3,10 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:New Mexico Jazz Festival\, 210 Yale Blvd SE\, Albuquerque\, NM 87106\, USA
-DTSTART:20260928T193000Z
-SUMMARY:Sylvie Courvoisier & Mary Halvorson
-UID:c07b0fa1-8d3d-4142-8013-d2d75ea15e5b@c07b.org
-URL:https://www.maryhalvorson.com/event-details/sylvie-courvoisier-mary-halvorson-26
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
-DTSTART:20260917T210000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:313af3dd-7fa9-43cd-914c-d90104ae287d@313a.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-35
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
-DTSTART:20260917T193000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:f670edb7-de26-4fd2-8128-ab12b87c899e@f670.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-34
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
 DTSTART:20260918T220000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:4c8dd612-7c3b-4003-a565-53db5c3e371f@4c8d.org
+UID:c3690fa6-7d5a-4dea-af1f-90ae8f5dbab5@c369.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-37
 END:VEVENT
 BEGIN:VEVENT
@@ -38,15 +14,39 @@ DURATION:PT2H
 LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
 DTSTART:20260918T200000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:d8e98675-c8d1-48bb-a5d1-fae1d83877b5@d8e9.org
+UID:5babdf7d-8757-4c15-8462-2a019d906900@5bab.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-36
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
+DTSTART:20260917T210000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:5c322acc-2152-4e53-a5d3-feab25117b50@5c32.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-35
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:New Mexico Jazz Festival\, 210 Yale Blvd SE\, Albuquerque\, NM 87106\, USA
+DTSTART:20260928T193000Z
+SUMMARY:Sylvie Courvoisier & Mary Halvorson
+UID:5c16808e-7b63-4339-9921-90af0a9ef6b1@5c16.org
+URL:https://www.maryhalvorson.com/event-details/sylvie-courvoisier-mary-halvorson-26
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
+DTSTART:20260917T193000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:d74bb23a-826f-491a-b061-71e5b9432f3d@d74b.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-34
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:White Plains Jazz Festival\, 31 Mamaroneck Ave\, White Plains\, NY 10601\, USA
 DTSTART:20260926T150000Z
 SUMMARY:Sylvie Courvoisier & Mary Halvorson
-UID:0924778b-cb54-4e33-a2bd-89117d19edab@0924.org
+UID:f9c88ee6-165e-4359-bb77-aa5eb7b19b46@f9c8.org
 URL:https://www.maryhalvorson.com/event-details/sylvie-courvoisier-mary-halvorson-25
 END:VEVENT
 END:VCALENDAR
