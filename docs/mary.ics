@@ -4,17 +4,17 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
-DTSTART:20260918T220000Z
+DTSTART:20260917T193000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:c3690fa6-7d5a-4dea-af1f-90ae8f5dbab5@c369.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-37
+UID:96932004-2641-44eb-96ac-27f1e160971f@9693.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-34
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
 DTSTART:20260918T200000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:5babdf7d-8757-4c15-8462-2a019d906900@5bab.org
+UID:016bf0e0-1e6c-4d53-859e-625b57edeaf5@016b.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-36
 END:VEVENT
 BEGIN:VEVENT
@@ -22,31 +22,31 @@ DURATION:PT2H
 LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
 DTSTART:20260917T210000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:5c322acc-2152-4e53-a5d3-feab25117b50@5c32.org
+UID:209c7b3d-d54e-4644-be97-0200800f9561@209c.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-35
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
+DTSTART:20260918T220000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:c9e16ceb-c910-499d-a515-c6bda19a11d7@c9e1.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-37
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:New Mexico Jazz Festival\, 210 Yale Blvd SE\, Albuquerque\, NM 87106\, USA
 DTSTART:20260928T193000Z
 SUMMARY:Sylvie Courvoisier & Mary Halvorson
-UID:5c16808e-7b63-4339-9921-90af0a9ef6b1@5c16.org
+UID:2023cc98-2afe-4737-88ec-b20a2f18f570@2023.org
 URL:https://www.maryhalvorson.com/event-details/sylvie-courvoisier-mary-halvorson-26
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
-DTSTART:20260917T193000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:d74bb23a-826f-491a-b061-71e5b9432f3d@d74b.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-34
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:White Plains Jazz Festival\, 31 Mamaroneck Ave\, White Plains\, NY 10601\, USA
 DTSTART:20260926T150000Z
 SUMMARY:Sylvie Courvoisier & Mary Halvorson
-UID:f9c88ee6-165e-4359-bb77-aa5eb7b19b46@f9c8.org
+UID:be285ade-7a94-4df6-a7af-cd4c698eea93@be28.org
 URL:https://www.maryhalvorson.com/event-details/sylvie-courvoisier-mary-halvorson-25
 END:VEVENT
 END:VCALENDAR
