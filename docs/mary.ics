@@ -4,41 +4,17 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
-DTSTART:20260917T193000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:96932004-2641-44eb-96ac-27f1e160971f@9693.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-34
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
 DTSTART:20260918T200000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:016bf0e0-1e6c-4d53-859e-625b57edeaf5@016b.org
+UID:5fd46d75-c554-4afe-93de-33f1880d313b@5fd4.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-36
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
-DTSTART:20260917T210000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:209c7b3d-d54e-4644-be97-0200800f9561@209c.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-35
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
-DTSTART:20260918T220000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:c9e16ceb-c910-499d-a515-c6bda19a11d7@c9e1.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-37
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:New Mexico Jazz Festival\, 210 Yale Blvd SE\, Albuquerque\, NM 87106\, USA
 DTSTART:20260928T193000Z
 SUMMARY:Sylvie Courvoisier & Mary Halvorson
-UID:2023cc98-2afe-4737-88ec-b20a2f18f570@2023.org
+UID:3457703b-1841-4db2-9aaa-220a23628374@3457.org
 URL:https://www.maryhalvorson.com/event-details/sylvie-courvoisier-mary-halvorson-26
 END:VEVENT
 BEGIN:VEVENT
@@ -46,7 +22,31 @@ DURATION:PT2H
 LOCATION:White Plains Jazz Festival\, 31 Mamaroneck Ave\, White Plains\, NY 10601\, USA
 DTSTART:20260926T150000Z
 SUMMARY:Sylvie Courvoisier & Mary Halvorson
-UID:be285ade-7a94-4df6-a7af-cd4c698eea93@be28.org
+UID:a9f11e7c-116b-4e0e-a65d-f222742625f2@a9f1.org
 URL:https://www.maryhalvorson.com/event-details/sylvie-courvoisier-mary-halvorson-25
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
+DTSTART:20260917T193000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:63e319b5-7046-4edb-89fa-7878928852dc@63e3.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-34
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
+DTSTART:20260917T210000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:abc708c3-81a2-499c-b760-bd1efc41d08f@abc7.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-35
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Close Up\, 154 Orchard St\, New York\, NY 10002\, USA
+DTSTART:20260918T220000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:7257630c-66ee-4f19-a293-8dc7672fc19c@7257.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-37
 END:VEVENT
 END:VCALENDAR
