@@ -3,90 +3,90 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Rolf-Liebermann-Studio\, Oberstraße 120\, 20149 Hamburg-Eimsbüttel\, Germany
-DTSTART:20261008T200000Z
-SUMMARY:Myra Melford: Fire & Water Quintet
-UID:f8a84e42-6fc7-4727-aa86-b3a4d0a76b8d@f8a8.org
-URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:RAMPE\, Gerhardtstraße 3\, 30167 Hannover-Nord\, Germany
-DTSTART:20261013T200000Z
-SUMMARY:Myra Melford: Fire & Water Quintet
-UID:f9d6e2c4-7fa6-4ac0-9958-899bd9c75aa7@f9d6.org
-URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet-3
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Kulturzentrum Schlachthof\, Findorffstraße 51\, 28215 Bremen-Findorff\, Germany
-DTSTART:20261012T200000Z
-SUMMARY:Myra Melford: Fire & Water Quintet
-UID:ff7b6a3b-1b3d-4852-96cf-b8b438eb1d6a@ff7b.org
-URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet-2
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Auditorio Nacional de Musica\, Calle del Príncipe de Vergara\, 146\, Chamartín\, 28002 Madrid\, Spain
-DTSTART:20261014T200000Z
-SUMMARY:Myra Melford: Fire & Water Quintet
-UID:5853f087-2b52-4e31-bd53-423db6f0883a@5853.org
-URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet-4
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Flux Festival Montreal\, 209 Av des Pins O\, Montréal\, QC H2W 2T2\, Canada
-DTSTART:20261001T193000Z
+LOCATION:Orchard Street Jazz Festival\, 154 Orchard St\, New York\, NY 10002\, USA
+DTSTART:20261004T200000Z
 SUMMARY:Mary Halvorson & Tomas Fujiwara
-UID:b02bd2f8-19e4-4a5b-bdce-cad59b902254@b02b.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-tomas-fujiwara-10
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Auditório Municipal do Fórum Cultural do\, R. Dr. Aristides Sousa Mendes\, 2840-244 Seixal\, Portugal
-DTSTART:20261017T213000Z
-SUMMARY:Myra Melford: Fire & Water Quintet
-UID:d3582d83-1450-4fb5-9c13-4a620dc59036@d358.org
-URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet-7
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Rolf-Liebermann-Studio\, Oberstraße 120\, 20149 Hamburg-Eimsbüttel\, Germany
-DTSTART:20261009T200000Z
-SUMMARY:Myra Melford: Fire & Water Quintet
-UID:2bd3332c-f00b-42be-ba02-3a42915db0a4@2bd3.org
-URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet-1
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Jazz & The City Sounds Salzburg\, Residenzpl. 1\, 5020 Salzburg\, Austria
-DTSTART:20261016T193000Z
-SUMMARY:Myra Melford: Fire & Water Quintet
-UID:2b2f49e0-f0fe-4de2-a978-94b0b62c6c57@2b2f.org
-URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet-6
+UID:466c23c5-9b10-4783-9128-d11ce649fbea@466c.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-tomas-fujiwara-12
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Orchard Street Jazz Festival\, 154 Orchard St\, New York\, NY 10002\, USA
 DTSTART:20261004T183000Z
 SUMMARY:Mary Halvorson & Tomas Fujiwara
-UID:ba28f2a9-4794-415f-9889-cbfa2f884eb7@ba28.org
+UID:f6b57c75-5a43-41a0-b72b-d7233e119e67@f6b5.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-tomas-fujiwara-11
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Orchard Street Jazz Festival\, 154 Orchard St\, New York\, NY 10002\, USA
-DTSTART:20261004T200000Z
+LOCATION:Flux Festival Montreal\, 209 Av des Pins O\, Montréal\, QC H2W 2T2\, Canada
+DTSTART:20261001T193000Z
 SUMMARY:Mary Halvorson & Tomas Fujiwara
-UID:eabfb80f-1b28-4977-9c57-61b1b2e6b765@eabf.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-tomas-fujiwara-12
+UID:24b599a3-4e40-480b-b6c0-be5819213aa0@24b5.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-tomas-fujiwara-10
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:RAMPE\, Gerhardtstraße 3\, 30167 Hannover-Nord\, Germany
+DTSTART:20261013T200000Z
+SUMMARY:Myra Melford: Fire & Water Quintet
+UID:94e2e235-f152-4eaa-8532-6140e8451a7b@94e2.org
+URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet-3
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Rolf-Liebermann-Studio\, Oberstraße 120\, 20149 Hamburg-Eimsbüttel\, Germany
+DTSTART:20261008T200000Z
+SUMMARY:Myra Melford: Fire & Water Quintet
+UID:880d9c98-b938-431b-bcd7-b85f2f95856a@880d.org
+URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Deutsches Jazz Festival Frankfurt\, Bertramstraße 8\, 60320 Frankfurt am Main-Innenstadt III\, Germany
 DTSTART:20261015T190000Z
 SUMMARY:Myra Melford: Fire & Water Quintet
-UID:9147ea9d-50f5-4406-acd3-ba58b1dcaec0@9147.org
+UID:4888cf88-ab58-436a-8ca4-03e69286879b@4888.org
 URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet-5
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Jazz & The City Sounds Salzburg\, Residenzpl. 1\, 5020 Salzburg\, Austria
+DTSTART:20261016T193000Z
+SUMMARY:Myra Melford: Fire & Water Quintet
+UID:90c8173a-9b3d-495b-8089-565143440fe7@90c8.org
+URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet-6
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Kulturzentrum Schlachthof\, Findorffstraße 51\, 28215 Bremen-Findorff\, Germany
+DTSTART:20261012T200000Z
+SUMMARY:Myra Melford: Fire & Water Quintet
+UID:8a7303a1-c12d-4a66-a201-53babbfc995e@8a73.org
+URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet-2
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Rolf-Liebermann-Studio\, Oberstraße 120\, 20149 Hamburg-Eimsbüttel\, Germany
+DTSTART:20261009T200000Z
+SUMMARY:Myra Melford: Fire & Water Quintet
+UID:e2f74034-4b8e-4e92-97ea-b363903ce71d@e2f7.org
+URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet-1
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Auditório Municipal do Fórum Cultural do\, R. Dr. Aristides Sousa Mendes\, 2840-244 Seixal\, Portugal
+DTSTART:20261017T213000Z
+SUMMARY:Myra Melford: Fire & Water Quintet
+UID:2c2b6fb0-82f1-4ac4-84ef-9900729115cd@2c2b.org
+URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet-7
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Auditorio Nacional de Musica\, Calle del Príncipe de Vergara\, 146\, Chamartín\, 28002 Madrid\, Spain
+DTSTART:20261014T200000Z
+SUMMARY:Myra Melford: Fire & Water Quintet
+UID:6b84314e-df06-43a5-8573-20e829b43ac5@6b84.org
+URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet-4
 END:VEVENT
 END:VCALENDAR
