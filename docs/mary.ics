@@ -3,10 +3,50 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Melbourne Int'l Jazz Festival\, 27 Leslie St\, Brunswick VIC 3056\, Australia
+DTSTART:20261024T213000Z
+SUMMARY:Tomeka Reid Quartet
+UID:3a1f1ca7-ad6c-4620-aeff-37e77a7c1db8@3a1f.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-63
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Berlin Jazz Festival\, Schaperstraße 24\, 10719 Berlin-Bezirk Charlottenburg-Wilmersdorf\, Germany
+DTSTART:20261031T183000Z
+SUMMARY:Tomeka Reid Quartet
+UID:11970187-075a-42c3-bb6e-287a493b15bc@1197.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-66
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Jazz & The City Sounds Salzburg\, Residenzpl. 1\, 5020 Salzburg\, Austria
+DTSTART:20261016T193000Z
+SUMMARY:Myra Melford: Fire & Water Quintet
+UID:95212dba-a41b-4400-9880-4e48ff5786e5@9521.org
+URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet-6
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Auditorio Nacional de Musica\, Calle del Príncipe de Vergara\, 146\, Chamartín\, 28002 Madrid\, Spain
+DTSTART:20261014T200000Z
+SUMMARY:Myra Melford: Fire & Water Quintet
+UID:8bef2e93-5f69-4ffe-a43e-21b242f42716@8bef.org
+URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet-4
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Melbourne Int'l Jazz Festival\, 27 Leslie St\, Brunswick VIC 3056\, Australia
+DTSTART:20261025T213000Z
+SUMMARY:Tomeka Reid Quartet
+UID:483db68b-1d42-4443-8b79-5f6a84551dbc@483d.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-65
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Rolf-Liebermann-Studio\, Oberstraße 120\, 20149 Hamburg-Eimsbüttel\, Germany
 DTSTART:20261009T200000Z
 SUMMARY:Myra Melford: Fire & Water Quintet
-UID:9c93af56-d747-44bd-8bef-d668c930a821@9c93.org
+UID:29b6e732-90f0-43e5-baa0-beb9779aaa71@29b6.org
 URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet-1
 END:VEVENT
 BEGIN:VEVENT
@@ -14,103 +54,63 @@ DURATION:PT2H
 LOCATION:Melbourne Int'l Jazz Festival\, 27 Leslie St\, Brunswick VIC 3056\, Australia
 DTSTART:20261025T190000Z
 SUMMARY:Tomeka Reid Quartet
-UID:35379cea-800c-4139-bea9-78e515ae345e@3537.org
+UID:59f718d5-7513-4090-b7db-91a49c93f2da@59f7.org
 URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-64
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Jazz & The City Sounds Salzburg\, Residenzpl. 1\, 5020 Salzburg\, Austria
-DTSTART:20261016T193000Z
-SUMMARY:Myra Melford: Fire & Water Quintet
-UID:535df67e-a98f-4402-b0d8-ed65226ca6b8@535d.org
-URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet-6
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Auditório Municipal do Fórum Cultural do\, R. Dr. Aristides Sousa Mendes\, 2840-244 Seixal\, Portugal
-DTSTART:20261017T213000Z
-SUMMARY:Myra Melford: Fire & Water Quintet
-UID:14f58747-401f-42ed-a3d9-98310d11b92d@14f5.org
-URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet-7
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Berlin Jazz Festival\, Kantstraße 12A\, 10623 Berlin-Bezirk Charlottenburg-Wilmersdorf\, Germany
-DTSTART:20261101T223000Z
-SUMMARY:Ches Smith: Clone Row
-UID:1f7f85a2-78cf-4a0b-a9a1-50beed7da717@1f7f.org
-URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-41
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Auditorio Nacional de Musica\, Calle del Príncipe de Vergara\, 146\, Chamartín\, 28002 Madrid\, Spain
-DTSTART:20261014T200000Z
-SUMMARY:Myra Melford: Fire & Water Quintet
-UID:4eccc063-9e8d-4590-b36b-1bc14d352acd@4ecc.org
-URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet-4
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Deutsches Jazz Festival Frankfurt\, Bertramstraße 8\, 60320 Frankfurt am Main-Innenstadt III\, Germany
-DTSTART:20261015T190000Z
-SUMMARY:Myra Melford: Fire & Water Quintet
-UID:c7019bfe-0c55-4157-bd02-40fe034a873f@c701.org
-URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet-5
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Melbourne Int'l Jazz Festival\, 27 Leslie St\, Brunswick VIC 3056\, Australia
-DTSTART:20261025T213000Z
-SUMMARY:Tomeka Reid Quartet
-UID:5a367b81-cecf-4034-ad9f-dc48d2d97b6e@5a36.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-65
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Melbourne Int'l Jazz Festival\, 27 Leslie St\, Brunswick VIC 3056\, Australia
-DTSTART:20261024T213000Z
-SUMMARY:Tomeka Reid Quartet
-UID:65f12724-a214-4732-96f0-050e73cd1156@65f1.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-63
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Sydney Int'l Women's Jazz Festival\, ste 3/13A Hickson Rd\, Dawes Point NSW 2000\, Australia
 DTSTART:20261023T190000Z
 SUMMARY:Tomeka Reid Quartet
-UID:160c5443-f56e-44ef-ac57-e369c65f18e5@160c.org
+UID:e6305a00-73f5-484f-83ec-6a20f2d1f908@e630.org
 URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-61
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:RAMPE\, Gerhardtstraße 3\, 30167 Hannover-Nord\, Germany
-DTSTART:20261013T200000Z
-SUMMARY:Myra Melford: Fire & Water Quintet
-UID:2b63282a-99fe-4547-ba63-76060ca09170@2b63.org
-URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet-3
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Melbourne Int'l Jazz Festival\, 27 Leslie St\, Brunswick VIC 3056\, Australia
-DTSTART:20261024T190000Z
-SUMMARY:Tomeka Reid Quartet
-UID:5db20c99-f861-41bc-b31b-b948e9493776@5db2.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-62
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Kulturzentrum Schlachthof\, Findorffstraße 51\, 28215 Bremen-Findorff\, Germany
 DTSTART:20261012T200000Z
 SUMMARY:Myra Melford: Fire & Water Quintet
-UID:c19356bf-6b95-43fe-aae4-21e5fb346e2c@c193.org
+UID:a6fb5dd9-b4c0-4bea-94f8-13e1fc40d383@a6fb.org
 URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet-2
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Berlin Jazz Festival\, Schaperstraße 24\, 10719 Berlin-Bezirk Charlottenburg-Wilmersdorf\, Germany
-DTSTART:20261031T183000Z
+LOCATION:RAMPE\, Gerhardtstraße 3\, 30167 Hannover-Nord\, Germany
+DTSTART:20261013T200000Z
+SUMMARY:Myra Melford: Fire & Water Quintet
+UID:e5d6626e-7a0f-4211-a3af-ac83df18b480@e5d6.org
+URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet-3
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Deutsches Jazz Festival Frankfurt\, Bertramstraße 8\, 60320 Frankfurt am Main-Innenstadt III\, Germany
+DTSTART:20261015T190000Z
+SUMMARY:Myra Melford: Fire & Water Quintet
+UID:5637b447-b0de-4938-9d2d-9e2d885fd4b3@5637.org
+URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet-5
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Berlin Jazz Festival\, Kantstraße 12A\, 10623 Berlin-Bezirk Charlottenburg-Wilmersdorf\, Germany
+DTSTART:20261101T223000Z
+SUMMARY:Ches Smith: Clone Row
+UID:b3d796d1-3964-442d-b5ca-41f4e58c796e@b3d7.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-41
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Auditório Municipal do Fórum Cultural do\, R. Dr. Aristides Sousa Mendes\, 2840-244 Seixal\, Portugal
+DTSTART:20261017T213000Z
+SUMMARY:Myra Melford: Fire & Water Quintet
+UID:08811ef2-c3cf-4983-a5c7-855d0a992008@0881.org
+URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet-7
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Melbourne Int'l Jazz Festival\, 27 Leslie St\, Brunswick VIC 3056\, Australia
+DTSTART:20261024T190000Z
 SUMMARY:Tomeka Reid Quartet
-UID:762b8b91-7f58-42a2-b6ea-32974904be09@762b.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-66
+UID:a6ef2711-ccaf-4576-90cc-67a3b3e4fbe3@a6ef.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-62
 END:VEVENT
 END:VCALENDAR
