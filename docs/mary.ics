@@ -3,82 +3,90 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Sydney Int'l Women's Jazz Festival\, ste 3/13A Hickson Rd\, Dawes Point NSW 2000\, Australia
-DTSTART:20261023T190000Z
-SUMMARY:Tomeka Reid Quartet
-UID:ca37ccb7-e124-455e-81ac-7ce783326d84@ca37.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-61
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Berlin Jazz Festival\, Schaperstraße 24\, 10719 Berlin-Bezirk Charlottenburg-Wilmersdorf\, Germany
-DTSTART:20261031T183000Z
-SUMMARY:Tomeka Reid Quartet
-UID:c5914afe-1323-4511-8d16-89876f7e949b@c591.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-66
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Palazzina Ex Fabbri - PARC\, Piazzale delle Cascine\, 7\, 50144 Firenze FI\, Italy
-DTSTART:20261122T190000Z
+LOCATION:HA Concerts\, Kouter 29\, 9000 Gent\, Belgium
+DTSTART:20261120T201500Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:58c5e454-a8a8-4faf-b158-eb03cefc21d2@58c5.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-41
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Melbourne Int'l Jazz Festival\, 27 Leslie St\, Brunswick VIC 3056\, Australia
-DTSTART:20261024T213000Z
-SUMMARY:Tomeka Reid Quartet
-UID:0ebb8518-f2a9-432f-85eb-e68c7d52a079@0ebb.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-63
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Auditório Municipal do Fórum Cultural do\, R. Dr. Aristides Sousa Mendes\, 2840-244 Seixal\, Portugal
-DTSTART:20261017T213000Z
-SUMMARY:Myra Melford: Fire & Water Quintet
-UID:e1da6f43-843e-4878-83f3-a2b656c37319@e1da.org
-URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet-7
+UID:6dfaaf6c-b5cc-4f10-8f22-f365169e5357@6dfa.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-40
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Melbourne Int'l Jazz Festival\, 27 Leslie St\, Brunswick VIC 3056\, Australia
 DTSTART:20261025T190000Z
 SUMMARY:Tomeka Reid Quartet
-UID:9f006b1c-a7eb-4eb6-b0a9-99037c104621@9f00.org
+UID:8e219cd6-a2dc-48c4-822f-c7c7674716ed@8e21.org
 URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-64
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:Auditório Municipal do Fórum Cultural do\, R. Dr. Aristides Sousa Mendes\, 2840-244 Seixal\, Portugal
+DTSTART:20261017T213000Z
+SUMMARY:Myra Melford: Fire & Water Quintet
+UID:2c6677f3-0bdb-41c9-ba60-c63335d6e9d8@2c66.org
+URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet-7
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Zagreb Jazz Festival\, Ilica 90\, 10000\, Zagreb\, Croatia
+DTSTART:20261123T200000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:13fe0814-c5d5-4d4d-b3ca-8cddd9999955@13fe.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-42
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Melbourne Int'l Jazz Festival\, 27 Leslie St\, Brunswick VIC 3056\, Australia
-DTSTART:20261024T190000Z
+DTSTART:20261024T213000Z
 SUMMARY:Tomeka Reid Quartet
-UID:e082ff7b-7ce7-4add-b9a0-c90b4487b8fd@e082.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-62
+UID:bc77bdcd-cf8d-460b-8422-925848eedfac@bc77.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-63
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Berlin Jazz Festival\, Kantstraße 12A\, 10623 Berlin-Bezirk Charlottenburg-Wilmersdorf\, Germany
 DTSTART:20261101T223000Z
 SUMMARY:Ches Smith: Clone Row
-UID:6c9ad811-e981-4c21-beb1-33fceb5c6bfb@6c9a.org
+UID:83014c63-4011-475b-86be-69d2ca9f6ad6@8301.org
 URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-41
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:HA Concerts\, Kouter 29\, 9000 Gent\, Belgium
-DTSTART:20261120T201500Z
+LOCATION:Palazzina Ex Fabbri - PARC\, Piazzale delle Cascine\, 7\, 50144 Firenze FI\, Italy
+DTSTART:20261122T190000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:bf81ff31-5676-4737-9f0e-507b60c7941a@bf81.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-40
+UID:be52172e-2c79-4450-b3a5-dad3e98920a5@be52.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-41
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Melbourne Int'l Jazz Festival\, 27 Leslie St\, Brunswick VIC 3056\, Australia
+DTSTART:20261024T190000Z
+SUMMARY:Tomeka Reid Quartet
+UID:c815cfdd-05ab-4af4-b088-1d6f775b7c12@c815.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-62
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Berlin Jazz Festival\, Schaperstraße 24\, 10719 Berlin-Bezirk Charlottenburg-Wilmersdorf\, Germany
+DTSTART:20261031T183000Z
+SUMMARY:Tomeka Reid Quartet
+UID:56d66bff-cf78-4f10-8e85-a1d0874538db@56d6.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-66
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Jazz & The City Sounds Salzburg\, Residenzpl. 1\, 5020 Salzburg\, Austria
+DTSTART:20261016T193000Z
+SUMMARY:Myra Melford: Fire & Water Quintet
+UID:e30d33a1-abb3-4184-86a9-1082879da116@e30d.org
+URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet-6
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Victoria Eugenia Theater\, Argentinar Errepublika\, 2\, 20004 Donostia / San Sebastián\, Guipúzcoa\, Spain
 DTSTART:20261118T193000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:6199264e-1722-49f5-b422-dfddf8f1fa6f@6199.org
+UID:9167041b-6296-4d7e-bb03-22fd001dae4a@9167.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-38
 END:VEVENT
 BEGIN:VEVENT
@@ -86,7 +94,7 @@ DURATION:PT2H
 LOCATION:Melbourne Int'l Jazz Festival\, 27 Leslie St\, Brunswick VIC 3056\, Australia
 DTSTART:20261025T213000Z
 SUMMARY:Tomeka Reid Quartet
-UID:16f46ec5-a7e0-4117-8045-16c3dd6fe058@16f4.org
+UID:0cf23d56-464b-450f-bc37-21439b7683d9@0cf2.org
 URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-65
 END:VEVENT
 BEGIN:VEVENT
@@ -94,23 +102,15 @@ DURATION:PT2H
 LOCATION:Barcelona Jazz Festival\, Carrer Nou de la Rambla\, 88\, Ciutat Vella\, 08001 Barcelona\, Spain
 DTSTART:20261119T203000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:f9524981-62e2-40c6-8c77-e99011f0f818@f952.org
+UID:40897e6d-9b78-4843-a924-a7878b777882@4089.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-39
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Jazz & The City Sounds Salzburg\, Residenzpl. 1\, 5020 Salzburg\, Austria
-DTSTART:20261016T193000Z
-SUMMARY:Myra Melford: Fire & Water Quintet
-UID:6a3dd1a1-f584-4160-9b27-f58f224300f5@6a3d.org
-URL:https://www.maryhalvorson.com/event-details/myra-melford-fire-water-quintet-6
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Zagreb Jazz Festival\, Ilica 90\, 10000\, Zagreb\, Croatia
-DTSTART:20261123T200000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:e717c63a-c640-4028-a2f2-07feff7b30de@e717.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-42
+LOCATION:Sydney Int'l Women's Jazz Festival\, ste 3/13A Hickson Rd\, Dawes Point NSW 2000\, Australia
+DTSTART:20261023T190000Z
+SUMMARY:Tomeka Reid Quartet
+UID:1d2227e8-6dbb-4a47-90ef-a688169f6b4c@1d22.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-61
 END:VEVENT
 END:VCALENDAR
