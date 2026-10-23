@@ -3,114 +3,114 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:The Kitchen at Westbeth\, 163B Bank St\, New York\, NY 10014\, USA
-DTSTART:20261108T140000Z
-SUMMARY:Improvisation\, Archive\, and Homage Symposium
-UID:61eba9ba-9e3a-4aeb-b344-64770491f08d@61eb.org
-URL:https://www.maryhalvorson.com/event-details/improvisation-archive-and-homage-symposium-1
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Barcelona Jazz Festival\, Carrer Nou de la Rambla\, 88\, Ciutat Vella\, 08001 Barcelona\, Spain
-DTSTART:20261119T203000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:5b619b79-8435-49c4-ba55-6da92a1bba50@5b61.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-39
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Berlin Jazz Festival\, Schaperstraße 24\, 10719 Berlin-Bezirk Charlottenburg-Wilmersdorf\, Germany
-DTSTART:20261031T183000Z
+LOCATION:Sydney Int'l Women's Jazz Festival\, ste 3/13A Hickson Rd\, Dawes Point NSW 2000\, Australia
+DTSTART:20261023T190000Z
 SUMMARY:Tomeka Reid Quartet
-UID:733b97ce-10e0-4e0f-a908-075e08ee33b9@733b.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-66
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Palazzina Ex Fabbri - PARC\, Piazzale delle Cascine\, 7\, 50144 Firenze FI\, Italy
-DTSTART:20261122T190000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:782c77db-f469-4226-a748-641c39cb9277@782c.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-41
+UID:4caa7dd7-8ef5-4512-b6f4-f005cf02eabc@4caa.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-61
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:HA Concerts\, Kouter 29\, 9000 Gent\, Belgium
 DTSTART:20261120T201500Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:412fd98b-d2c9-4e6c-81a0-111febb1533a@412f.org
+UID:aae341c4-d830-48e5-85aa-0311c2990a0f@aae3.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-40
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Melbourne Int'l Jazz Festival\, 27 Leslie St\, Brunswick VIC 3056\, Australia
-DTSTART:20261025T190000Z
+LOCATION:Berlin Jazz Festival\, Schaperstraße 24\, 10719 Berlin-Bezirk Charlottenburg-Wilmersdorf\, Germany
+DTSTART:20261031T183000Z
 SUMMARY:Tomeka Reid Quartet
-UID:0221a771-5d79-4794-a626-df7365a424e9@0221.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-64
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Victoria Eugenia Theater\, Argentinar Errepublika\, 2\, 20004 Donostia / San Sebastián\, Guipúzcoa\, Spain
-DTSTART:20261118T193000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:dc1c2cb1-8a0d-4bb6-9884-2ef435f9b003@dc1c.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-38
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Melbourne Int'l Jazz Festival\, 27 Leslie St\, Brunswick VIC 3056\, Australia
-DTSTART:20261024T190000Z
-SUMMARY:Tomeka Reid Quartet
-UID:4302f623-a958-4010-b144-2e03fccc3eac@4302.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-62
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Melbourne Int'l Jazz Festival\, 27 Leslie St\, Brunswick VIC 3056\, Australia
-DTSTART:20261024T213000Z
-SUMMARY:Tomeka Reid Quartet
-UID:1afed15a-d68d-4263-8411-db87a5a43338@1afe.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-63
+UID:e1e92bc5-49bb-48ea-9603-9a0d50f20cb1@e1e9.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-66
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Melbourne Int'l Jazz Festival\, 27 Leslie St\, Brunswick VIC 3056\, Australia
 DTSTART:20261025T213000Z
 SUMMARY:Tomeka Reid Quartet
-UID:8ff1d73f-8852-4227-aa5f-f3088ec68eb1@8ff1.org
+UID:0ca7b277-9dfc-4b44-a62d-c811f34eebcd@0ca7.org
 URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-65
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Sydney Int'l Women's Jazz Festival\, ste 3/13A Hickson Rd\, Dawes Point NSW 2000\, Australia
-DTSTART:20261023T190000Z
-SUMMARY:Tomeka Reid Quartet
-UID:99a488a4-3ade-4d83-b564-bb0905ab6053@99a4.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-61
+LOCATION:Victoria Eugenia Theater\, Argentinar Errepublika\, 2\, 20004 Donostia / San Sebastián\, Guipúzcoa\, Spain
+DTSTART:20261118T193000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:91aa118b-8dc3-4917-a612-77e05133e701@91aa.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-38
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Zagreb Jazz Festival\, Ilica 90\, 10000\, Zagreb\, Croatia
-DTSTART:20261123T200000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:17447afb-c6e1-4c19-8188-9824c278c10d@1744.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-42
+LOCATION:Melbourne Int'l Jazz Festival\, 27 Leslie St\, Brunswick VIC 3056\, Australia
+DTSTART:20261024T213000Z
+SUMMARY:Tomeka Reid Quartet
+UID:31fa3b4b-ddf4-4cdf-8ef4-942db4a8e1a8@31fa.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-63
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Berlin Jazz Festival\, Kantstraße 12A\, 10623 Berlin-Bezirk Charlottenburg-Wilmersdorf\, Germany
 DTSTART:20261101T223000Z
 SUMMARY:Ches Smith: Clone Row
-UID:b4a7e610-684f-46fd-a232-3e74d3e25b8b@b4a7.org
+UID:b4963869-3127-4148-85f4-c382f0773203@b496.org
 URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-41
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Melbourne Int'l Jazz Festival\, 27 Leslie St\, Brunswick VIC 3056\, Australia
+DTSTART:20261025T190000Z
+SUMMARY:Tomeka Reid Quartet
+UID:76c9872b-9ae4-499e-a124-48732a4a9156@76c9.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-64
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Barcelona Jazz Festival\, Carrer Nou de la Rambla\, 88\, Ciutat Vella\, 08001 Barcelona\, Spain
+DTSTART:20261119T203000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:3d1f5b48-5c00-4315-bffc-4a3647a85d46@3d1f.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-39
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:The Kitchen at Westbeth\, 163B Bank St\, New York\, NY 10014\, USA
 DTSTART:20261107T140000Z
 SUMMARY:Improvisation\, Archive\, and Homage Symposium
-UID:a4f3a651-052c-42bc-82fb-9b73828e70c0@a4f3.org
+UID:150d73ea-e748-46ed-950c-4ada6f535bdc@150d.org
 URL:https://www.maryhalvorson.com/event-details/improvisation-archive-and-homage-symposium
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Melbourne Int'l Jazz Festival\, 27 Leslie St\, Brunswick VIC 3056\, Australia
+DTSTART:20261024T190000Z
+SUMMARY:Tomeka Reid Quartet
+UID:16a86aa7-f027-4d06-a286-58d118ec4f78@16a8.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-62
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Palazzina Ex Fabbri - PARC\, Piazzale delle Cascine\, 7\, 50144 Firenze FI\, Italy
+DTSTART:20261122T190000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:364c2ab9-0a6c-41f1-9dc4-708a171083c6@364c.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-41
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:The Kitchen at Westbeth\, 163B Bank St\, New York\, NY 10014\, USA
+DTSTART:20261108T140000Z
+SUMMARY:Improvisation\, Archive\, and Homage Symposium
+UID:0087f28f-1ae6-44c0-bacc-ceaefc0558c0@0087.org
+URL:https://www.maryhalvorson.com/event-details/improvisation-archive-and-homage-symposium-1
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Zagreb Jazz Festival\, Ilica 90\, 10000\, Zagreb\, Croatia
+DTSTART:20261123T200000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:61c40bf0-0b73-4f15-9553-0b496100fba4@61c4.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-42
 END:VEVENT
 END:VCALENDAR
