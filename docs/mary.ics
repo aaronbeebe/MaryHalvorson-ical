@@ -3,42 +3,26 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Berlin Jazz Festival\, Kantstraße 12A\, 10623 Berlin-Bezirk Charlottenburg-Wilmersdorf\, Germany
-DTSTART:20261101T223000Z
-SUMMARY:Ches Smith: Clone Row
-UID:1dc09237-46f9-44a0-acff-070b0be0c4a9@1dc0.org
-URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-41
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:The Kitchen at Westbeth\, 163B Bank St\, New York\, NY 10014\, USA
-DTSTART:20261108T140000Z
-SUMMARY:Improvisation\, Archive\, and Homage Symposium
-UID:0c76661b-e94b-41f3-944d-2790d565bcef@0c76.org
-URL:https://www.maryhalvorson.com/event-details/improvisation-archive-and-homage-symposium-1
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Palazzina Ex Fabbri - PARC\, Piazzale delle Cascine\, 7\, 50144 Firenze FI\, Italy
-DTSTART:20261122T190000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:7ca645eb-288a-4039-8b1f-f387ef03c68c@7ca6.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-41
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:Zagreb Jazz Festival\, Ilica 90\, 10000\, Zagreb\, Croatia
 DTSTART:20261123T200000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:85f53f66-190c-4073-81ed-123b35703d08@85f5.org
+UID:c149da99-9666-4a9c-8973-47349599770a@c149.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-42
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Victoria Eugenia Theater\, Argentinar Errepublika\, 2\, 20004 Donostia / San Sebastián\, Guipúzcoa\, Spain
+DTSTART:20261118T193000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:b023df31-836d-4f08-9489-f59f21158aed@b023.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-38
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Berlin Jazz Festival\, Schaperstraße 24\, 10719 Berlin-Bezirk Charlottenburg-Wilmersdorf\, Germany
 DTSTART:20261031T183000Z
 SUMMARY:Tomeka Reid Quartet
-UID:c7cbf2ff-a212-48c8-882e-e2e3ca797e1c@c7cb.org
+UID:c72d1b9a-0a93-42cf-ba19-38baf33f45da@c72d.org
 URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-66
 END:VEVENT
 BEGIN:VEVENT
@@ -46,31 +30,47 @@ DURATION:PT2H
 LOCATION:Barcelona Jazz Festival\, Carrer Nou de la Rambla\, 88\, Ciutat Vella\, 08001 Barcelona\, Spain
 DTSTART:20261119T203000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:ce50c6c3-b3ec-422e-bc17-602713cd00c4@ce50.org
+UID:0d33ecc0-ce73-4399-90fb-7c440b2e1cb9@0d33.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-39
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Victoria Eugenia Theater\, Argentinar Errepublika\, 2\, 20004 Donostia / San Sebastián\, Guipúzcoa\, Spain
-DTSTART:20261118T193000Z
+LOCATION:Palazzina Ex Fabbri - PARC\, Piazzale delle Cascine\, 7\, 50144 Firenze FI\, Italy
+DTSTART:20261122T190000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:03a6006e-a499-452c-8d6e-9cebebc88e2a@03a6.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-38
+UID:8b30efbb-bb7f-4b3d-b217-3656728b83bd@8b30.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-41
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:The Kitchen at Westbeth\, 163B Bank St\, New York\, NY 10014\, USA
 DTSTART:20261107T140000Z
 SUMMARY:Improvisation\, Archive\, and Homage Symposium
-UID:bfeb2876-894c-4857-8413-17d606ff17cd@bfeb.org
+UID:6786da87-d78a-4aa3-a392-3b1ffab745c4@6786.org
 URL:https://www.maryhalvorson.com/event-details/improvisation-archive-and-homage-symposium
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:The Kitchen at Westbeth\, 163B Bank St\, New York\, NY 10014\, USA
+DTSTART:20261108T140000Z
+SUMMARY:Improvisation\, Archive\, and Homage Symposium
+UID:4c095274-0420-4951-9942-63f60dcbf3fc@4c09.org
+URL:https://www.maryhalvorson.com/event-details/improvisation-archive-and-homage-symposium-1
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Berlin Jazz Festival\, Kantstraße 12A\, 10623 Berlin-Bezirk Charlottenburg-Wilmersdorf\, Germany
+DTSTART:20261101T223000Z
+SUMMARY:Ches Smith: Clone Row
+UID:a386b6da-42a0-442d-8b93-4966511eb6f4@a386.org
+URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-41
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:HA Concerts\, Kouter 29\, 9000 Gent\, Belgium
 DTSTART:20261120T201500Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:b61f5b11-4bf2-47fb-ab56-ba5892ba03e2@b61f.org
+UID:e6695418-73ba-41b2-9edd-f84f1e25dabc@e669.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-40
 END:VEVENT
 END:VCALENDAR
