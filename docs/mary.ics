@@ -3,66 +3,58 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
+LOCATION:HA Concerts\, Kouter 29\, 9000 Gent\, Belgium
+DTSTART:20261120T201500Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:9c5f4a74-4a45-4563-b542-c83664039c7d@9c5f.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-40
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
 LOCATION:Zagreb Jazz Festival\, Ilica 90\, 10000\, Zagreb\, Croatia
 DTSTART:20261123T200000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:88f97b26-1fd9-4081-9a53-731bbe3bd009@88f9.org
+UID:0caade7e-9d6a-4d61-a90c-0c323f2528b6@0caa.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-42
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:The Kitchen at Westbeth\, 163B Bank St\, New York\, NY 10014\, USA
-DTSTART:20261108T140000Z
-SUMMARY:Improvisation\, Archive\, and Homage Symposium
-UID:d8e5bc3b-bcf5-4da4-b7cd-33362fee9c1b@d8e5.org
-URL:https://www.maryhalvorson.com/event-details/improvisation-archive-and-homage-symposium-1
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Berlin Jazz Festival\, Kantstraße 12A\, 10623 Berlin-Bezirk Charlottenburg-Wilmersdorf\, Germany
-DTSTART:20261101T223000Z
-SUMMARY:Ches Smith: Clone Row
-UID:f69a72eb-00b2-4146-a9a4-1877fc29b127@f69a.org
-URL:https://www.maryhalvorson.com/event-details/ches-smith-clone-row-41
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Victoria Eugenia Theater\, Argentinar Errepublika\, 2\, 20004 Donostia / San Sebastián\, Guipúzcoa\, Spain
-DTSTART:20261118T193000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:74167004-4ef8-44f7-9ab8-5ad914a543e3@7416.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-38
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Barcelona Jazz Festival\, Carrer Nou de la Rambla\, 88\, Ciutat Vella\, 08001 Barcelona\, Spain
-DTSTART:20261119T203000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:0b1795a1-171b-46c6-abf1-db43ca528bba@0b17.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-39
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Palazzina Ex Fabbri - PARC\, Piazzale delle Cascine\, 7\, 50144 Firenze FI\, Italy
-DTSTART:20261122T190000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:ea85eda7-be50-48be-867a-d5a1417e702b@ea85.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-41
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:The Kitchen at Westbeth\, 163B Bank St\, New York\, NY 10014\, USA
 DTSTART:20261107T140000Z
 SUMMARY:Improvisation\, Archive\, and Homage Symposium
-UID:9b82c0bf-8fb0-4bd1-97eb-f8d39658924c@9b82.org
+UID:c243a4de-d2a9-428c-9f47-260258a5bb87@c243.org
 URL:https://www.maryhalvorson.com/event-details/improvisation-archive-and-homage-symposium
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:HA Concerts\, Kouter 29\, 9000 Gent\, Belgium
-DTSTART:20261120T201500Z
+LOCATION:The Kitchen at Westbeth\, 163B Bank St\, New York\, NY 10014\, USA
+DTSTART:20261108T140000Z
+SUMMARY:Improvisation\, Archive\, and Homage Symposium
+UID:89f5fdfa-4d21-4a1e-bcfd-972fe8c7a05a@89f5.org
+URL:https://www.maryhalvorson.com/event-details/improvisation-archive-and-homage-symposium-1
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Barcelona Jazz Festival\, Carrer Nou de la Rambla\, 88\, Ciutat Vella\, 08001 Barcelona\, Spain
+DTSTART:20261119T203000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:682baf80-2c9a-4672-a597-6dc38250b92a@682b.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-40
+UID:702a57f0-dafc-445e-8d1b-6c77411f63a1@702a.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-39
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Victoria Eugenia Theater\, Argentinar Errepublika\, 2\, 20004 Donostia / San Sebastián\, Guipúzcoa\, Spain
+DTSTART:20261118T193000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:3875d249-7256-4915-9c33-74462d9f6909@3875.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-38
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Palazzina Ex Fabbri - PARC\, Piazzale delle Cascine\, 7\, 50144 Firenze FI\, Italy
+DTSTART:20261122T190000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:fc233a1a-d71d-4a96-8fe1-f2a4994c0663@fc23.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-41
 END:VEVENT
 END:VCALENDAR
