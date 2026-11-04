@@ -3,58 +3,58 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:HA Concerts\, Kouter 29\, 9000 Gent\, Belgium
-DTSTART:20261120T201500Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:9c5f4a74-4a45-4563-b542-c83664039c7d@9c5f.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-40
+LOCATION:The Kitchen at Westbeth\, 163B Bank St\, New York\, NY 10014\, USA
+DTSTART:20261107T140000Z
+SUMMARY:Improvisation\, Archive\, and Homage Symposium
+UID:4e0478c7-748f-406b-85e8-74ec60af6d18@4e04.org
+URL:https://www.maryhalvorson.com/event-details/improvisation-archive-and-homage-symposium
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Zagreb Jazz Festival\, Ilica 90\, 10000\, Zagreb\, Croatia
 DTSTART:20261123T200000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:0caade7e-9d6a-4d61-a90c-0c323f2528b6@0caa.org
+UID:0eeb4462-1592-47a7-9069-b8df84b17d92@0eeb.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-42
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:The Kitchen at Westbeth\, 163B Bank St\, New York\, NY 10014\, USA
-DTSTART:20261107T140000Z
-SUMMARY:Improvisation\, Archive\, and Homage Symposium
-UID:c243a4de-d2a9-428c-9f47-260258a5bb87@c243.org
-URL:https://www.maryhalvorson.com/event-details/improvisation-archive-and-homage-symposium
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:The Kitchen at Westbeth\, 163B Bank St\, New York\, NY 10014\, USA
-DTSTART:20261108T140000Z
-SUMMARY:Improvisation\, Archive\, and Homage Symposium
-UID:89f5fdfa-4d21-4a1e-bcfd-972fe8c7a05a@89f5.org
-URL:https://www.maryhalvorson.com/event-details/improvisation-archive-and-homage-symposium-1
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Barcelona Jazz Festival\, Carrer Nou de la Rambla\, 88\, Ciutat Vella\, 08001 Barcelona\, Spain
 DTSTART:20261119T203000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:702a57f0-dafc-445e-8d1b-6c77411f63a1@702a.org
+UID:e52386e7-9892-4f6d-a877-ed3ad79ca823@e523.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-39
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Victoria Eugenia Theater\, Argentinar Errepublika\, 2\, 20004 Donostia / San Sebastián\, Guipúzcoa\, Spain
-DTSTART:20261118T193000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:3875d249-7256-4915-9c33-74462d9f6909@3875.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-38
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Palazzina Ex Fabbri - PARC\, Piazzale delle Cascine\, 7\, 50144 Firenze FI\, Italy
 DTSTART:20261122T190000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:fc233a1a-d71d-4a96-8fe1-f2a4994c0663@fc23.org
+UID:09aa420f-49f3-4e27-a315-54119030b5bd@09aa.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-41
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Victoria Eugenia Theater\, Argentinar Errepublika\, 2\, 20004 Donostia / San Sebastián\, Guipúzcoa\, Spain
+DTSTART:20261118T193000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:1c39e2da-c708-49a6-bc31-0686051582b5@1c39.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-38
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:The Kitchen at Westbeth\, 163B Bank St\, New York\, NY 10014\, USA
+DTSTART:20261108T140000Z
+SUMMARY:Improvisation\, Archive\, and Homage Symposium
+UID:d72082bb-800c-4ad8-bab3-b9a533c8f517@d720.org
+URL:https://www.maryhalvorson.com/event-details/improvisation-archive-and-homage-symposium-1
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:HA Concerts\, Kouter 29\, 9000 Gent\, Belgium
+DTSTART:20261120T201500Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:3fb95b3d-6a4c-43a0-86ae-e7b3c9af1701@3fb9.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-40
 END:VEVENT
 END:VCALENDAR
