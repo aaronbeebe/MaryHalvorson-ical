@@ -3,66 +3,66 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Victoria Eugenia Theater\, Argentinar Errepublika\, 2\, 20004 Donostia / San Sebastián\, Guipúzcoa\, Spain
-DTSTART:20261118T193000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:fb274ac1-6e93-4497-b89f-9fc09dc5e73a@fb27.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-38
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:HA Concerts\, Kouter 29\, 9000 Gent\, Belgium
-DTSTART:20261120T201500Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:f0159321-08ee-40e3-9339-9d3a2fcb4e45@f015.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-40
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:The Kitchen at Westbeth\, 163B Bank St\, New York\, NY 10014\, USA
-DTSTART:20261108T140000Z
-SUMMARY:Improvisation\, Archive\, and Homage Symposium
-UID:05221870-a300-445f-8e03-2d0c50a1d571@0522.org
-URL:https://www.maryhalvorson.com/event-details/improvisation-archive-and-homage-symposium-1
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Barcelona Jazz Festival\, Carrer Nou de la Rambla\, 88\, Ciutat Vella\, 08001 Barcelona\, Spain
-DTSTART:20261119T203000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:ea056183-c0fc-4fbe-9329-245c157619d4@ea05.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-39
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Zagreb Jazz Festival\, Ilica 90\, 10000\, Zagreb\, Croatia
-DTSTART:20261123T200000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:a214c926-e0e2-4b5c-b6d2-83d9994ef831@a214.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-42
+LOCATION:The Bug Theatre\, 3654 Navajo St\, Denver\, CO 80211\, USA
+DTSTART:20261212T190000Z
+SUMMARY:Tomeka Reid Quartet
+UID:022973dd-dd6a-49c6-a00e-5bd5eb5ad86e@0229.org
+URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-67
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:Palazzina Ex Fabbri - PARC\, Piazzale delle Cascine\, 7\, 50144 Firenze FI\, Italy
 DTSTART:20261122T190000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:795b9643-4a2d-43a7-a61e-ce66bce4543d@795b.org
+UID:4c518447-54b3-4cab-aa48-4120d1bb88fb@4c51.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-41
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:The Bug Theatre\, 3654 Navajo St\, Denver\, CO 80211\, USA
-DTSTART:20261212T190000Z
-SUMMARY:Tomeka Reid Quartet
-UID:8c5988b0-653e-4a15-a8de-166780ad27ea@8c59.org
-URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-67
+LOCATION:Victoria Eugenia Theater\, Argentinar Errepublika\, 2\, 20004 Donostia / San Sebastián\, Guipúzcoa\, Spain
+DTSTART:20261118T193000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:ca50467c-194c-4593-b0a2-f5f6b4043ff8@ca50.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-38
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:The Kitchen at Westbeth\, 163B Bank St\, New York\, NY 10014\, USA
 DTSTART:20261107T140000Z
 SUMMARY:Improvisation\, Archive\, and Homage Symposium
-UID:a2b437af-f6a8-472c-addf-e70f9d58ba4b@a2b4.org
+UID:357f4aca-c4d2-4914-81bd-e961edc8e134@357f.org
 URL:https://www.maryhalvorson.com/event-details/improvisation-archive-and-homage-symposium
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Barcelona Jazz Festival\, Carrer Nou de la Rambla\, 88\, Ciutat Vella\, 08001 Barcelona\, Spain
+DTSTART:20261119T203000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:38f90c83-2fc3-496b-8256-a4bc0a0f562a@38f9.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-39
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:HA Concerts\, Kouter 29\, 9000 Gent\, Belgium
+DTSTART:20261120T201500Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:2bafeedf-5901-4b6e-9e2c-410032431548@2baf.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-40
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Zagreb Jazz Festival\, Ilica 90\, 10000\, Zagreb\, Croatia
+DTSTART:20261123T200000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:7744db8a-926e-491f-9fed-3aa3bdcc5907@7744.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-42
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:The Kitchen at Westbeth\, 163B Bank St\, New York\, NY 10014\, USA
+DTSTART:20261108T140000Z
+SUMMARY:Improvisation\, Archive\, and Homage Symposium
+UID:c62ee1e5-d890-4687-9a60-13e8aaf3b9d7@c62e.org
+URL:https://www.maryhalvorson.com/event-details/improvisation-archive-and-homage-symposium-1
 END:VEVENT
 END:VCALENDAR
