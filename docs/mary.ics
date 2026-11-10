@@ -3,18 +3,34 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Barcelona Jazz Festival\, Carrer Nou de la Rambla\, 88\, Ciutat Vella\, 08001 Barcelona\, Spain
-DTSTART:20261119T203000Z
+LOCATION:Victoria Eugenia Theater\, Argentinar Errepublika\, 2\, 20004 Donostia / San Sebastián\, Guipúzcoa\, Spain
+DTSTART:20261118T193000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:e3af257a-446d-4b27-9d91-43ea9721c7ea@e3af.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-39
+UID:14f3be17-8817-4496-83d7-ac0dbf21fe63@14f3.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-38
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Zagreb Jazz Festival\, Ilica 90\, 10000\, Zagreb\, Croatia
+DTSTART:20261123T200000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:c55db881-7011-492b-90bb-baa9dffd9278@c55d.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-42
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:HA Concerts\, Kouter 29\, 9000 Gent\, Belgium
+DTSTART:20261120T201500Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:ca26c61e-8d98-4b3d-8079-ca48296edca7@ca26.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-40
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:The Bug Theatre\, 3654 Navajo St\, Denver\, CO 80211\, USA
 DTSTART:20261212T190000Z
 SUMMARY:Tomeka Reid Quartet
-UID:bf18b234-ec47-407b-b7f9-70c4b3807a81@bf18.org
+UID:42b1916c-53dc-4f00-8602-b44ac4ab3b93@42b1.org
 URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-67
 END:VEVENT
 BEGIN:VEVENT
@@ -22,31 +38,15 @@ DURATION:PT2H
 LOCATION:Palazzina Ex Fabbri - PARC\, Piazzale delle Cascine\, 7\, 50144 Firenze FI\, Italy
 DTSTART:20261122T190000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:59f2b358-a7bd-483c-b00d-bdf64e069af4@59f2.org
+UID:bf05fe7f-cb60-4f99-9c4d-fc3aa1b7e44c@bf05.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-41
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Victoria Eugenia Theater\, Argentinar Errepublika\, 2\, 20004 Donostia / San Sebastián\, Guipúzcoa\, Spain
-DTSTART:20261118T193000Z
+LOCATION:Barcelona Jazz Festival\, Carrer Nou de la Rambla\, 88\, Ciutat Vella\, 08001 Barcelona\, Spain
+DTSTART:20261119T203000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:fecff47c-e93a-4d45-a4e2-940e3eb75ef1@fecf.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-38
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:HA Concerts\, Kouter 29\, 9000 Gent\, Belgium
-DTSTART:20261120T201500Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:deedf0d1-98a0-450a-acde-241e0eabdfe4@deed.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-40
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Zagreb Jazz Festival\, Ilica 90\, 10000\, Zagreb\, Croatia
-DTSTART:20261123T200000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:3573ea56-7f82-4a38-8ae3-833af4b2abdc@3573.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-42
+UID:ff3dfe7c-3558-4cbd-bdac-ff75b35bf2b1@ff3d.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-39
 END:VEVENT
 END:VCALENDAR
