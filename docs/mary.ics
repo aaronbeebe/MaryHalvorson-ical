@@ -3,26 +3,10 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Zagreb Jazz Festival\, Ilica 90\, 10000\, Zagreb\, Croatia
-DTSTART:20261123T200000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:365f3612-d102-4281-84bc-54ff6facb73e@365f.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-42
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Palazzina Ex Fabbri - PARC\, Piazzale delle Cascine\, 7\, 50144 Firenze FI\, Italy
-DTSTART:20261122T190000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:f2f95d56-4152-4170-97c8-2371d81fc3b8@f2f9.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-41
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
 LOCATION:HA Concerts\, Kouter 29\, 9000 Gent\, Belgium
 DTSTART:20261120T201500Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:96c8b451-7742-45fb-9409-1de3c23f0bb5@96c8.org
+UID:9959eda7-1a22-4a97-8d87-0f4bd5d2283b@9959.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-40
 END:VEVENT
 BEGIN:VEVENT
@@ -30,15 +14,23 @@ DURATION:PT2H
 LOCATION:The Bug Theatre\, 3654 Navajo St\, Denver\, CO 80211\, USA
 DTSTART:20261212T190000Z
 SUMMARY:Tomeka Reid Quartet
-UID:ab1b7989-0aea-434b-8038-ee35f2faed75@ab1b.org
+UID:c5acf663-fe46-49bb-9702-5190866e26fc@c5ac.org
 URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-67
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-LOCATION:Barcelona Jazz Festival\, Carrer Nou de la Rambla\, 88\, Ciutat Vella\, 08001 Barcelona\, Spain
-DTSTART:20261119T203000Z
+LOCATION:Zagreb Jazz Festival\, Ilica 90\, 10000\, Zagreb\, Croatia
+DTSTART:20261123T200000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:5a84bedb-5dbf-4d02-aaeb-0e3a9302d3f5@5a84.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-39
+UID:0c1aba0d-cb66-4d0e-87d9-879c6de02250@0c1a.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-42
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Palazzina Ex Fabbri - PARC\, Piazzale delle Cascine\, 7\, 50144 Firenze FI\, Italy
+DTSTART:20261122T190000Z
+SUMMARY:Mary Halvorson: Canis Major
+UID:bcc1014f-0178-4f44-86d7-2e5303a473f8@bcc1.org
+URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-41
 END:VEVENT
 END:VCALENDAR
