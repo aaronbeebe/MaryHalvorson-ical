@@ -6,23 +6,15 @@ DURATION:PT2H
 LOCATION:Zagreb Jazz Festival\, Ilica 90\, 10000\, Zagreb\, Croatia
 DTSTART:20261123T200000Z
 SUMMARY:Mary Halvorson: Canis Major
-UID:cbb01a14-88ab-4143-a7d2-d038a26e3d4f@cbb0.org
+UID:352b8ca4-f823-4658-9fcf-532f54d67983@352b.org
 URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-42
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Palazzina Ex Fabbri - PARC\, Piazzale delle Cascine\, 7\, 50144 Firenze FI\, Italy
-DTSTART:20261122T190000Z
-SUMMARY:Mary Halvorson: Canis Major
-UID:7dd533bc-ace0-4795-afeb-c44b05dd8e19@7dd5.org
-URL:https://www.maryhalvorson.com/event-details/mary-halvorson-canis-major-41
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 LOCATION:The Bug Theatre\, 3654 Navajo St\, Denver\, CO 80211\, USA
 DTSTART:20261212T190000Z
 SUMMARY:Tomeka Reid Quartet
-UID:180b660e-6124-4333-8e2e-e7deca6838b3@180b.org
+UID:bcb3360b-1d0a-47fe-bc4b-de5bf1402e0a@bcb3.org
 URL:https://www.maryhalvorson.com/event-details/tomeka-reid-quartet-67
 END:VEVENT
 END:VCALENDAR
